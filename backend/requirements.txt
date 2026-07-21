@@ -26,6 +26,7 @@ chromadb>=1.0.0
 neo4j==5.28.1
 
 # LLM
+google-genai>=0.1.1
 google-generativeai>=0.8.4
 
 # Utilities
