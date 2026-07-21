@@ -675,9 +675,10 @@ def build_presentation(output_path):
     cp1.font.color.rgb = CYAN
     
     cp2 = ctf.add_paragraph()
-    cp2.text = "• Live Application: Render (Backend API) + Vercel (React Frontend)"
-    cp2.font.size = Pt(12)
-    cp2.font.color.rgb = WHITE
+    cp2.text = "• Official Live Application: https://plantbrain-eight.vercel.app/"
+    cp2.font.size = Pt(13)
+    cp2.font.bold = True
+    cp2.font.color.rgb = EMERALD
     cp2.space_before = Pt(6)
     
     cp3 = ctf.add_paragraph()
