@@ -57,13 +57,6 @@ async def startup_event():
     logger.info(f"ChromaDB persist dir: {settings.chroma_persist_dir}")
     logger.info(f"Frontend origin: {settings.frontend_origin}")
 
-    # Pre-load embedding model
-    try:
-        from app.core.embedding import get_embedder
-        get_embedder()
-    except Exception as e:
-        logger.warning(f"Embedding model pre-load warning: {e}")
-
     # Verify ChromaDB is accessible
     try:
         from app.core.vector_store import get_vector_store
