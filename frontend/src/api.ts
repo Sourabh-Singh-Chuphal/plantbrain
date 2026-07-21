@@ -5,7 +5,7 @@ const BASE = rawBase.replace(/\/+$/, '')
 
 const api = axios.create({
   baseURL: BASE,
-  timeout: 90000,
+  timeout: 120000,
 })
 
 export default api

@@ -57,22 +57,51 @@ async def startup_event():
     logger.info(f"ChromaDB persist dir: {settings.chroma_persist_dir}")
     logger.info(f"Frontend origin: {settings.frontend_origin}")
 
-    # Verify ChromaDB is accessible
+    # 1. Warm embedder model in memory (non-blocking)
+    try:
+        from app.core.embedding import get_embedder
+        logger.info("Pre-warming SentenceTransformer model on startup...")
+        get_embedder()
+        logger.info("SentenceTransformer model successfully pre-warmed.")
+    except Exception as e:
+        logger.warning(f"Embedder pre-warm warning: {e}")
+
+    # 2. Verify ChromaDB & Auto-seed if empty
     try:
         from app.core.vector_store import get_vector_store
         collection = get_vector_store()
-        logger.info(f"ChromaDB ready — {collection.count()} chunks in collection")
+        count = collection.count()
+        logger.info(f"ChromaDB ready — {count} chunks in collection")
+
+        if count < 10:
+            logger.info("Corpus count below threshold (<10). Auto-seeding sample corpus on startup...")
+            import asyncio
+            from scripts.seed_corpus import seed_corpus
+            asyncio.create_task(asyncio.to_thread(seed_corpus, False))
     except Exception as e:
-        logger.warning(f"ChromaDB init warning: {e}")
+        logger.warning(f"ChromaDB startup/auto-seed warning: {e}")
 
-
-    # Verify Neo4j (non-blocking)
+    # 3. Verify Neo4j (non-blocking)
     try:
         from app.core.graph_client import verify_connection
         connected = verify_connection()
         logger.info(f"Neo4j connected: {connected}")
     except Exception as e:
         logger.warning(f"Neo4j connection warning: {e}")
+
+    # 4. Pre-warm Copilot Cache for demo queries
+    try:
+        from app.services.agents.copilot import prewarm_cache
+        prewarm_cache([
+            "What happened to sensor GB-14 in 2019 and how does it relate to the 2026 work orders?",
+            "What is the recurring issue with Gas Blower GB-14 during hot work permits?",
+            "PM-07 bearing failure RCA",
+            "OISD-105 compliance check",
+            "Hot work permit procedure"
+        ])
+        logger.info("Copilot demo cache successfully pre-warmed.")
+    except Exception as e:
+        logger.warning(f"Copilot cache pre-warm warning: {e}")
 
 
 @app.api_route("/", methods=["GET", "HEAD"], tags=["root"])

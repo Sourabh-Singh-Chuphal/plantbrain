@@ -181,12 +181,13 @@ export default function Copilot() {
         },
       ])
     } catch (e: any) {
+      const errMsg = e?.response?.data?.detail || e?.message || 'Server response timeout'
       setMessages(prev => [
         ...prev.filter(m => !m.thinking),
         {
           id: Date.now().toString() + '-e',
           role: 'assistant',
-          content: `⚠️ Error: ${e?.response?.data?.detail || e?.message || 'Unknown error'}. Make sure the backend is running and the corpus is seeded.`,
+          content: `⚠️ Server Notice: ${errMsg}. If the backend container on Render is waking up from a cold start, please re-send your message below or click a sample query to retry.`,
         },
       ])
     } finally {
