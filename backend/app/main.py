@@ -75,7 +75,7 @@ async def startup_event():
         logger.warning(f"Neo4j connection warning: {e}")
 
 
-@app.get("/", tags=["root"])
+@app.api_route("/", methods=["GET", "HEAD"], tags=["root"])
 async def root():
     return {
         "service": "PlantBrain API",
