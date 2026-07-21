@@ -1,10 +1,11 @@
 import axios from 'axios'
 
-const BASE = import.meta.env.VITE_API_BASE_URL || ''
+const rawBase = import.meta.env.VITE_API_BASE_URL || ''
+const BASE = rawBase.replace(/\/+$/, '')
 
 const api = axios.create({
   baseURL: BASE,
-  timeout: 60000,
+  timeout: 90000,
 })
 
 export default api
