@@ -1,0 +1,69 @@
+VINDHYA STEELWORKS PVT. LTD.
+Chandrapur Industrial Zone, Maharashtra — 442 401
+═══════════════════════════════════════════════════════
+SHIFT HANDOVER LOG
+═══════════════════════════════════════════════════════
+
+Log Reference   : SHL-2024-0819
+Date            : 19 August 2024
+Shift           : Night Shift (22:00 — 06:00)
+Outgoing Shift  : A Shift — Suresh Kumar (Operator-II), Lead
+Incoming Shift  : B Shift — Vijay Patil (Operator-II), Lead
+Shift Supervisor: Rajiv Sharma
+
+───────────────────────────────────────────────────────
+EQUIPMENT STATUS SUMMARY
+───────────────────────────────────────────────────────
+Equipment Tag | Status     | Notes
+─────────────────────────────────────────────────────
+GB-14         | ⚠ ALERT    | Reading 18% LEL at 05:55 IST. Was 6% LEL at 22:00.
+              |            | Rising trend over 8 hours. Hot work suspended.
+              |            | Rajiv Sharma notified at 06:15. WO raised (pending no.)
+PM-07         | RUNNING    | Vibration within limits. Bearing temp: 68°C (limit 85°C)
+HX-11         | RUNNING    | Outlet temp: 142°C. Note: slight odour near south flange.
+              |            | Not confirmed as leak. Monitor closely next shift.
+PV-08         | SHUTDOWN   | Planned maintenance. Hot work permit HWP-2024-339 active.
+              |            | HOT WORK SUSPENDED due to GB-14 alarm at 06:15.
+CV-22         | RUNNING    | No issues.
+CR-03         | AVAILABLE  | Last used 14:00. No issues.
+
+───────────────────────────────────────────────────────
+HOT WORK STATUS
+───────────────────────────────────────────────────────
+Permit No.  : HWP-2024-339
+Work Type   : Pipe welding — PV-08 support bracket (Bay 4)
+Issued By   : Rajiv Sharma at 21:45 on 18 August 2024
+Status      : SUSPENDED at 06:15, 19 August 2024
+Reason      : GB-14 reading exceeded 15% LEL notification threshold.
+              Gas reading at permit issuance (21:45): 4% LEL.
+              Gas reading at suspension (06:15): 18% LEL.
+Action      : Work order being raised for GB-14 investigation. Bay 4 hot work
+              not to resume until GB-14 is investigated and cleared by HSE.
+              Incoming shift supervisor to liaise with Anil Mehta (I&E).
+
+───────────────────────────────────────────────────────
+PRODUCTION NOTES
+───────────────────────────────────────────────────────
+- Furnace #2 running at 87% capacity. No issues.
+- Cooling water system: normal. Flow 240 m³/hr.
+- Raw material: Iron ore batch from Raipur delivered 02:00. Stockpile updated.
+- Quality: Heat No. VS-2024-1621 dispatched 04:30. Certificate attached.
+
+───────────────────────────────────────────────────────
+OPEN ACTIONS FOR INCOMING SHIFT
+───────────────────────────────────────────────────────
+1. PRIORITY: Coordinate with Anil Mehta re: GB-14 investigation (WO pending). Do NOT
+   resume hot work in Bay 4 until written clearance from HSE officer.
+2. Monitor HX-11 south flange for odour / seepage. Inform Rajiv Sharma if worsens.
+3. PM-07 bearing temperature trending up from 62°C (07:00 yesterday) to 68°C. Log
+   hourly readings. Escalate if >75°C.
+
+───────────────────────────────────────────────────────
+SIGNATURES
+───────────────────────────────────────────────────────
+Outgoing Operator : Suresh Kumar     Signature: ____  Time: 06:25
+Incoming Operator : Vijay Patil      Signature: ____  Time: 06:25
+Shift Supervisor  : Rajiv Sharma     Signature: ____  Time: 06:30
+
+CROSS-REFERENCE: HWP-2024-339, WO-4471 (raised after this log), NMR-2019-047
+═══════════════════════════════════════════════════════

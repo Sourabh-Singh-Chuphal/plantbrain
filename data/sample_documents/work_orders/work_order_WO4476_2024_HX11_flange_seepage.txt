@@ -1,0 +1,74 @@
+VINDHYA STEELWORKS PVT. LTD.
+Chandrapur Industrial Zone, Maharashtra — 442 401
+═══════════════════════════════════════════════════════
+MAINTENANCE WORK ORDER
+═══════════════════════════════════════════════════════
+
+Work Order No.  : WO-4476
+Date Issued     : 22 August 2024
+Priority        : MEDIUM
+Status          : CLOSED — PARTIAL (see Notes)
+Department      : Mechanical
+Location        : Bay 3, Zone C
+Equipment Tag   : HX-11 (Shell-and-Tube Heat Exchanger, Train 2)
+Assigned To     : Suresh Kumar (Plant Operator), Anil Mehta (I&E support)
+Supervised By   : Rajiv Sharma, Maintenance Supervisor
+
+───────────────────────────────────────────────────────
+1. WORK DESCRIPTION
+───────────────────────────────────────────────────────
+Investigation of odour noted at HX-11 south shell flange during Night Shift of 19 August
+2024, per Shift Handover Log SHL-2024-0819. Odour described as "faint gas smell near
+south flange, not confirmed as leak."
+
+This work order is linked to WO-4471 (GB-14 investigation) — the elevated GB-14 reading
+on 19 August 2024 was attributed in part to a possible HX-11 flange seepage. WO-4476
+is to confirm or rule out the HX-11 source.
+
+───────────────────────────────────────────────────────
+2. WORK PERFORMED
+───────────────────────────────────────────────────────
+Date: 23 August 2024
+
+Step 1 — Soap bubble test on HX-11 south flange joints (Flange #5, #6, #7, #8):
+          Flange #7: Small bubble formation observed at 3 o'clock position. Minor seepage.
+          Flanges #5, #6, #8: No bubbles. No leak.
+
+Step 2 — Portable gas reading at HX-11 Flange #7: 4% LEL methane. Source confirmed.
+
+Step 3 — Flange #7 bolts: 4 of 8 bolts at reduced torque (measured: 65–72 Nm vs. 110 Nm
+          specification). Two bolts showing corrosion on threads.
+
+───────────────────────────────────────────────────────
+3. REMEDIAL ACTION
+───────────────────────────────────────────────────────
+Bolts retorqued to 110 Nm. Post-retorque soap test: No bubbles. Seepage appears resolved.
+Portable gas at Flange #7: 0.5% LEL. Acceptable.
+
+⚠ IMPORTANT NOTE: Flange #7 gasket (spiral-wound, 150# ANSI class) should be replaced
+at next planned shutdown. The gasket shows surface fretting from repeated thermal cycling
+and the bolt torque loss indicates potential creep. Retorquing is a TEMPORARY FIX only.
+
+Recommended: Schedule gasket replacement at next Bay 3 planned maintenance window
+(Q4 2024 or Q1 2025 shutdown).
+
+───────────────────────────────────────────────────────
+4. CLOSURE STATUS
+───────────────────────────────────────────────────────
+CLOSED — PARTIAL. Immediate seepage resolved by retorquing. Gasket replacement required
+as permanent fix. Planned maintenance team notified verbally by Rajiv Sharma.
+Work Order for gasket replacement: NOT RAISED (to be raised at next planned shutdown).
+
+[Post-incident note added 22 January 2026: Gasket replacement was NOT completed.
+ HX-11 Flange #7 gasket failure occurred on 21 January 2026 and was identified as
+ the methane source in WO-4892. The failure to raise a formal follow-up work order
+ for gasket replacement is identified as a contributing factor in RCA-2026-007.]
+
+───────────────────────────────────────────────────────
+5. SIGNATURES
+───────────────────────────────────────────────────────
+Technician      : Suresh Kumar            Date: 23/08/2024
+Supervisor      : Rajiv Sharma            Date: 23/08/2024
+
+CROSS-REFERENCE: WO-4471, SHL-2024-0819, WO-4892, RCA-2026-007
+═══════════════════════════════════════════════════════

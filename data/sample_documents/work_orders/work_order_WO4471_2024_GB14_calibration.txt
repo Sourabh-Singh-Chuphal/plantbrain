@@ -1,0 +1,97 @@
+VINDHYA STEELWORKS PVT. LTD.
+Chandrapur Industrial Zone, Maharashtra — 442 401
+═══════════════════════════════════════════════════════
+MAINTENANCE WORK ORDER
+═══════════════════════════════════════════════════════
+
+Work Order No.  : WO-4471
+Date Issued     : 21 August 2024
+Priority        : HIGH
+Status          : COMPLETED
+Department      : Instrumentation & Electrical
+Location        : Bay 4, Zone C
+Equipment Tag   : GB-14 (Draeger Polytron 2 XP Combustible Gas Detector)
+Assigned To     : Anil Mehta, Senior Technician (I&E)
+Supervised By   : Rajiv Sharma, Maintenance Supervisor
+Approved By     : Deepak Singh, Maintenance Engineer
+
+───────────────────────────────────────────────────────
+1. WORK DESCRIPTION
+───────────────────────────────────────────────────────
+Routine inspection and calibration of combustible gas detector GB-14 in Bay 4, Zone C.
+Work triggered by Shift Handover Log SHL-2024-0819 dated 19 August 2024, which noted
+GB-14 readings of 18% LEL during shift changeover — above the 10% LEL notification
+threshold defined in procedure SHP-04.
+
+A Hot Work Permit (HWP-2024-339) was active in Bay 4 on 19 August 2024 for pipe welding
+activities at the time of the elevated reading. The welding was suspended at 06:47 IST
+pending gas reading investigation.
+
+───────────────────────────────────────────────────────
+2. WORK PERFORMED
+───────────────────────────────────────────────────────
+Date Commenced  : 21 August 2024, 08:00 IST
+Date Completed  : 21 August 2024, 11:30 IST
+
+Step 1 — Bump test performed using 50% LEL methane gas standard.
+         Response: 47% LEL (within ±5% tolerance). Sensor functional.
+
+Step 2 — Zero calibration performed. Pre-cal zero reading: +2.1% LEL (drift noted).
+
+Step 3 — Span calibration performed using 50% LEL certified methane reference gas
+         (Cert. No. CAL-2024-MET-7723, valid until December 2024).
+         Post-calibration reading: 50.0% LEL. PASS.
+
+Step 4 — Zero reading post-calibration: 0.0% LEL. PASS.
+
+Step 5 — Visual inspection: sensor housing intact. Cable glands secure. No corrosion.
+         Sensor last replaced: 12 February 2022 (WO-4102). Sensor age: 30 months.
+         Note: Draeger recommends sensor element replacement every 24 months. OVERDUE.
+
+Step 6 — Sensor element replacement scheduled under separate work order (WO-4473,
+         pending procurement of Draeger spare — P/N 4511545).
+
+Step 7 — Area gas reading post-maintenance: 0.0% LEL. Bay 4 cleared for operations.
+
+───────────────────────────────────────────────────────
+3. FINDINGS & OBSERVATIONS
+───────────────────────────────────────────────────────
+(a) The 18% LEL reading on 19 August 2024 was attributed to a combination of calibration
+    drift (pre-cal zero offset of +2.1% LEL) and actual trace methane present in Bay 4
+    due to a small flange connection seepage at heat exchanger HX-11 (adjacent to GB-14).
+    HX-11 flange inspection raised separately as WO-4476.
+
+(b) IMPORTANT NOTE: This is the second time in the past 5 years that elevated gas readings
+    on GB-14 have coincided with an active hot work permit in Bay 4. The previous occurrence
+    was documented in Near-Miss Report NMR-2019-047 (March 2019). Recommend this pattern
+    be flagged in the lessons-learned register and that the Hot Work Permit procedure for
+    Bay 4 require mandatory gas reading from GB-14 within 15 minutes (currently 30 minutes
+    per OISD-STD-105).
+
+(c) CA-04 from NMR-2019-047 (digital calibration tracking system) was never implemented.
+    This calibration overdue situation (sensor element 6 months past replacement schedule)
+    would have been prevented by an automated system.
+
+───────────────────────────────────────────────────────
+4. PARTS USED
+───────────────────────────────────────────────────────
+Item    : Calibration gas — 50% LEL methane (N2 balance), 34L cylinder
+Part No.: N/A (consumable)
+Store Ref.: STORE-CAL-2024-0821
+
+───────────────────────────────────────────────────────
+5. NEXT SERVICE DUE
+───────────────────────────────────────────────────────
+Next calibration: February 2025 (6-month interval per Draeger manual Chapter 4)
+Sensor element replacement: Pending WO-4473 (procurement in progress)
+
+───────────────────────────────────────────────────────
+6. SIGNATURES
+───────────────────────────────────────────────────────
+Technician      : Anil Mehta              Date: 21/08/2024
+Supervisor      : Rajiv Sharma            Date: 21/08/2024
+Engineer Review : Deepak Singh            Date: 22/08/2024
+
+CROSS-REFERENCE: NMR-2019-047, HWP-2024-339, WO-4473, WO-4476, SHL-2024-0819
+REGULATORY REF : OISD-STD-105 Clause 4.3.1, Draeger Polytron 2 XP Manual Ch.4
+═══════════════════════════════════════════════════════

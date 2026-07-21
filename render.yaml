@@ -1,0 +1,29 @@
+services:
+  - type: web
+    name: plantbrain-api
+    runtime: docker
+    dockerfilePath: ./backend/Dockerfile
+    dockerContext: ./backend
+    plan: starter
+    # CRITICAL: Mount persistent disk so ChromaDB survives redeploys
+    disk:
+      name: chroma-data
+      mountPath: /data/chroma
+      sizeGB: 2
+    envVars:
+      - key: ANTHROPIC_API_KEY
+        sync: false   # Set via Render dashboard — never commit this
+      - key: NEO4J_URI
+        sync: false
+      - key: NEO4J_USER
+        value: neo4j
+      - key: NEO4J_PASSWORD
+        sync: false
+      - key: CHROMA_PERSIST_DIR
+        value: /data/chroma
+      - key: FRONTEND_ORIGIN
+        sync: false   # Set to your Vercel URL after deploy
+      - key: APP_ENV
+        value: production
+      - key: LOG_LEVEL
+        value: INFO

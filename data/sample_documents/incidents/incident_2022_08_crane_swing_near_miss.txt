@@ -1,0 +1,60 @@
+VINDHYA STEELWORKS PVT. LTD.
+Chandrapur Industrial Zone, Maharashtra — 442 401
+═══════════════════════════════════════════════════════
+NEAR-MISS INCIDENT REPORT
+═══════════════════════════════════════════════════════
+
+Report No.      : NMR-2022-031
+Date of Incident: 07 August 2022
+Time of Incident: 10:15 IST
+Location        : Bay 2 — Overhead Crane Bay
+Equipment Tag   : CR-03 (Demag 20T Overhead Crane)
+Report Prepared : Priya Nair, HSE Manager
+Date Submitted  : 08 August 2022
+
+───────────────────────────────────────────────────────
+1. INCIDENT DESCRIPTION
+───────────────────────────────────────────────────────
+On 07 August 2022 at 10:15 IST, the overhead crane CR-03 (20 tonne, Bay 2) experienced
+an uncontrolled swing of a suspended load (steel coil, estimated 4.2 tonnes) during a
+routine lift. The load swung approximately 1.8 metres from its intended path and came
+within 0.4 metres of Operator Suresh Kumar who was walking below the load path.
+
+Crane operator Ganesh Bankar stopped the lift immediately. Suresh Kumar was not struck.
+No injury occurred. This event is classified as NEAR-MISS — Category 2 (High Potential).
+
+───────────────────────────────────────────────────────
+2. IMMEDIATE CAUSES
+───────────────────────────────────────────────────────
+(a) The lift was commenced before the load path area was confirmed clear of pedestrians.
+    Per Lift Procedure LP-02, the signalman (Vijay Patil) was required to confirm area
+    clear before Ganesh Bankar commenced the lift. Vijay Patil had not completed the
+    area clearance check.
+
+(b) Suresh Kumar entered the lift path zone without verifying crane status.
+    Bay 2 crane activity was in progress (amber beacon active). Suresh Kumar stated
+    he was taking a shortcut and did not look for the amber beacon.
+
+───────────────────────────────────────────────────────
+3. ROOT CAUSES
+───────────────────────────────────────────────────────
+(a) Physical barriers below load path are not required by current procedure but would
+    have prevented pedestrian access.
+(b) Suresh Kumar had not attended crane safety refresher training (last attended: 2019).
+
+───────────────────────────────────────────────────────
+4. CORRECTIVE ACTIONS
+───────────────────────────────────────────────────────
+CR-01 | Install temporary barrier tape below CR-03 lift paths during all lifts. Immediate.
+CR-02 | Suresh Kumar to attend Crane Safety Awareness refresher. Due: 31 Aug 2022.
+CR-03 | Signalman pre-lift checklist to include area clearance signature. Due: 22 Aug 2022.
+CR-04 | Incident shared at next safety meeting. Due: 14 August 2022.
+
+───────────────────────────────────────────────────────
+5. SIGNATURES
+───────────────────────────────────────────────────────
+HSE Manager       : Priya Nair           Date: 08/08/2022
+Plant Manager     : Mohan Rao            Date: 09/08/2022
+
+CROSS-REFERENCE: LP-02 (Lift Procedure), NMR-2022-031
+═══════════════════════════════════════════════════════

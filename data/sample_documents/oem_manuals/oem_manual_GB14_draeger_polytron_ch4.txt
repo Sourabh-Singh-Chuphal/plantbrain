@@ -1,0 +1,111 @@
+DRAEGER POLYTRON 2 XP
+Combustible Gas Detector — Operation & Maintenance Manual
+EXCERPT: Chapter 4 — Calibration, Maintenance & Troubleshooting
+Document Ref: Draeger-P2XP-OM-EN-Rev7
+
+NOTE: This is an excerpt for training and maintenance purposes.
+Full manual available from Draeger Safety AG, Lübeck, Germany.
+───────────────────────────────────────────────────────
+
+4.1 INTRODUCTION TO CALIBRATION
+
+The Polytron 2 XP uses a catalytic bead (pellistor) sensor to detect combustible gases.
+Accurate detection depends on periodic calibration to compensate for sensor aging, poisoning,
+and environmental factors. Failure to calibrate on schedule is the leading cause of false
+negatives (failure to alarm when gas is present) and false positives (nuisance alarms).
+
+4.2 CALIBRATION INTERVALS
+
+4.2.1 Standard Calibration Schedule
+  - Zero check (bump test): Every 30 days, or before any hot work in the monitored area.
+  - Full calibration (zero + span): Every 6 months, or after any alarm event.
+  - Sensor element replacement: Every 24 months, or when span calibration cannot be achieved
+    within ±5% of reference gas value after two consecutive attempts.
+
+4.2.2 Accelerated Calibration Triggers
+The following conditions require IMMEDIATE calibration regardless of schedule:
+  (a) Any alarm event above 25% LEL.
+  (b) Sensor exposure to silicone vapours, lead compounds, halogenated solvents, or H2S
+      concentrations above 200 ppm — these compounds cause catalytic bead poisoning and
+      permanently reduce sensor sensitivity.
+  (c) Sensor readings that drift more than ±3% LEL from known zero in a clean atmosphere.
+  (d) Any physical impact or moisture ingress to the sensor housing.
+
+4.3 CALIBRATION PROCEDURE
+
+4.3.1 Pre-Calibration Safety Requirements
+IMPORTANT: Before performing calibration in a live area:
+  (a) Obtain a Hot Work / Gas Work permit from the area supervisor.
+  (b) Verify the area reading is below 10% LEL using a portable gas detector BEFORE
+      connecting calibration gas or opening the sensor housing.
+  (c) Inform the shift operator and control room of planned calibration activity.
+  (d) Have a second person present as safety observer.
+
+4.3.2 Zero Calibration
+  Step 1: Connect certified zero gas (synthetic clean air, <1 ppm HC) at 0.5 L/min.
+  Step 2: Allow reading to stabilise (minimum 2 minutes).
+  Step 3: If reading is within ±1% LEL of zero, no adjustment required. Log and sign off.
+  Step 4: If reading is outside ±1% LEL, adjust zero potentiometer per Figure 4-3.
+  Step 5: Record pre-adjustment and post-adjustment readings on Calibration Record Form CF-01.
+
+4.3.3 Span Calibration
+  Step 1: Use certified reference gas at 50% LEL methane in nitrogen balance.
+          IMPORTANT: Reference gas cylinder must have a valid calibration certificate
+          dated within the past 12 months from an accredited laboratory.
+  Step 2: Connect at 0.5 L/min via the sensor inlet cap (Figure 4-4).
+  Step 3: Allow reading to stabilise (minimum 3 minutes).
+  Step 4: Adjust span potentiometer until display reads 50.0% ±1.0% LEL.
+  Step 5: If span cannot be achieved within ±5% of reference after two attempts,
+          sensor element requires replacement (see Section 4.5).
+
+4.4 RECOGNISING PRE-FAILURE DRIFT
+
+4.4.1 Early Warning Signs
+Sensor degradation typically follows a predictable pattern:
+  Phase 1 (Early): Zero drift increases gradually. Span calibration achievable.
+  Phase 2 (Mid):   Zero drift >2% LEL. Span requires multiple adjustments.
+  Phase 3 (Late):  Span cannot be achieved. Sensor may give intermittent high readings.
+
+CRITICAL: A sensor in Phase 3 is dangerous. It may alarm at artificially high readings
+(causing unnecessary evacuations) OR may lose sensitivity and fail to alarm when gas is
+actually present. Both failure modes are safety-critical.
+
+4.4.2 Field Identification of Pre-Failure Drift
+If an operator reports an "unexplained" high reading that cannot be confirmed by a portable
+detector, and the area gas reading with portable detection is significantly lower than the
+fixed detector reading, this is strong evidence of Phase 2 or Phase 3 sensor drift.
+DO NOT dismiss unexplained high readings as sensor error — always investigate the actual
+gas condition in the area AND the sensor calibration status.
+
+4.5 SENSOR ELEMENT REPLACEMENT
+
+Sensor element (Draeger Part No. 4511545):
+  Recommended replacement interval: 24 months from installation date.
+  Required replacement conditions: Failed span calibration (see 4.3.3), physical damage,
+  confirmed poisoning exposure (see 4.2.2b), or reading anomalies per 4.4.
+
+Replacement Procedure:
+  Step 1: Power down the detector. Confirm area is safe (<10% LEL with portable).
+  Step 2: Remove sensor cap (3 screws, M4 Torx). Disconnect sensor plug.
+  Step 3: Install new sensor element. Note installation date on housing label.
+  Step 4: Power on. Allow 4-hour warm-up before first calibration.
+  Step 5: Perform full zero + span calibration (Section 4.3).
+  Step 6: Record new sensor installation date in equipment logbook.
+
+4.6 TROUBLESHOOTING — ELEVATED READINGS
+
+Symptom: Sustained reading >15% LEL in area where no gas source expected.
+Possible causes (investigate in this order):
+  1. Actual gas leak present in monitored area — use portable detector to confirm.
+     DO NOT assume sensor error until area is confirmed gas-free by portable detection.
+  2. Sensor drift / calibration required — check calibration date. If overdue, calibrate.
+  3. Sensor poisoning — check history of chemical exposures in area.
+  4. Environmental interference (humidity, temperature extremes) — check conditions.
+
+WARNING: Never acknowledge and silence a gas alarm without first investigating causes 1-4.
+
+───────────────────────────────────────────────────────
+END OF CHAPTER 4 EXCERPT
+Full manual: Draeger-P2XP-OM-EN-Rev7
+Contact: techsupport.safety@draeger.com
+───────────────────────────────────────────────────────

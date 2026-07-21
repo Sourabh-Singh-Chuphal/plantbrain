@@ -1,0 +1,165 @@
+OIL INDUSTRY SAFETY DIRECTORATE
+OISD-STD-105 (SYNTHETIC REFERENCE DOCUMENT)
+HOT WORK — PERMIT TO WORK SYSTEM
+Third Revision — 2018
+
+NOTE: This is a synthetic document prepared for training and demonstration purposes,
+structured to reflect the format and requirements of Indian industrial safety standards.
+It is not a reproduction of any official government publication.
+───────────────────────────────────────────────────────────────────
+
+CHAPTER 1 — SCOPE AND APPLICATION
+
+1.1 This standard specifies minimum requirements for the Permit to Work (PTW) system
+    applicable to all hot work operations conducted in oil and gas installations, refineries,
+    petrochemical plants, and other hazardous area facilities in India.
+
+1.2 Hot work, for the purpose of this standard, includes: welding, gas cutting, plasma
+    cutting, grinding (that produces sparks), operation of internal combustion engines
+    in hazardous areas, and any other work that may produce heat, sparks, or flame.
+
+1.3 This standard shall be read in conjunction with OISD-STD-116 (Fire Protection
+    Facilities), OISD-STD-144 (Liquefied Petroleum Gas), and the applicable provisions
+    of the Factories Act, 1948 and the Petroleum Act, 1934.
+
+CHAPTER 2 — DEFINITIONS
+
+2.1 Hot Work Area: Any area where hot work is to be performed.
+
+2.2 Hazardous Area: An area where flammable or explosive atmospheres may exist.
+
+2.3 Lower Explosive Limit (LEL): The minimum concentration of a flammable gas or vapour
+    in air below which the mixture cannot be ignited.
+
+2.4 Permit Issuing Authority (PIA): The person authorised to issue a hot work permit,
+    typically the area supervisor or safety officer. The PIA must have completed hot work
+    permit training and be assessed as competent.
+
+2.5 Permit Receiver: The person performing or supervising the hot work.
+
+CHAPTER 3 — GENERAL REQUIREMENTS FOR HOT WORK PERMITS
+
+3.1 No hot work shall be performed without a valid Hot Work Permit issued by the
+    Permit Issuing Authority.
+
+3.2 A Hot Work Permit shall be valid for one shift only (maximum 12 hours). If work
+    extends beyond one shift, a fresh permit must be issued.
+
+3.3 The Permit Issuing Authority shall conduct a physical inspection of the work area
+    before issuing the permit.
+
+3.4 The Hot Work Permit shall specify:
+    (a) Location of work (area, equipment tag, elevation)
+    (b) Nature of hot work to be performed
+    (c) Duration of permit validity
+    (d) Gas test results at time of permit issuance
+    (e) Name and signature of Permit Issuing Authority
+    (f) Name and signature of Permit Receiver
+    (g) Fire extinguisher location and standby arrangements
+    (h) Conditions under which hot work must be immediately stopped
+
+CHAPTER 4 — GAS TESTING REQUIREMENTS
+
+4.1 GAS TEST BEFORE PERMIT ISSUANCE
+
+4.1.1 A gas test shall be performed in the hot work area immediately before permit
+      issuance. The gas test must be conducted by a competent person using a calibrated
+      portable gas detector.
+
+4.1.2 Hot work shall NOT be permitted if the combustible gas concentration in the
+      work area exceeds 10% LEL.
+
+4.1.3 The gas test result (equipment ID, reading in % LEL, time, and tester's name)
+      shall be recorded on the Hot Work Permit form. The field MUST NOT be left blank
+      or marked "N/A". If gas testing equipment is unavailable, hot work shall not proceed.
+
+4.1.4 Where fixed gas detectors are installed in the hot work area, the current reading
+      from the nearest fixed detector shall also be recorded on the permit. A fixed detector
+      reading above 10% LEL shall prevent permit issuance regardless of portable test result.
+
+4.2 GAS TESTING DURING HOT WORK
+
+4.2.1 Continuous monitoring of the work area shall be maintained during hot work using
+      either fixed detectors or a dedicated portable monitor operated by a standby person.
+
+4.2.2 Hot work shall be IMMEDIATELY suspended if:
+      (a) Any gas reading in the work area exceeds 10% LEL.
+      (b) Any fixed detector within 15 metres of the work area reads above 10% LEL.
+      (c) An odour of gas, smoke, or unusual vapour is detected.
+      (d) Any fire, spark, or unexpected heat source is observed.
+
+4.3 FREQUENCY OF GAS READINGS
+
+4.3.1 Gas readings shall be recorded at minimum every 30 minutes during hot work and
+      logged on the permit form or a dedicated monitoring log.
+
+4.3.2 Where a fixed gas detector (such as a permanent combustible gas monitor installed
+      per relevant equipment standards) is present within 10 metres of the hot work, the
+      fixed detector reading shall be read and logged at minimum every 30 minutes.
+
+4.3.3 If a fixed detector alarm activates during hot work, hot work shall be suspended
+      immediately and not resumed until the alarm cause has been investigated and cleared
+      by the Permit Issuing Authority.
+
+4.4 GAS DETECTOR CALIBRATION
+
+4.4.1 Portable gas detectors used for hot work permit gas testing shall be calibrated
+      per the manufacturer's recommendation, at minimum every 6 months, and bump-tested
+      before each use.
+
+4.4.2 Fixed gas detectors protecting hot work areas shall be calibrated per manufacturer
+      recommendations. A fixed detector that is overdue for calibration shall be treated
+      as non-functional. Hot work in areas protected solely by overdue fixed detectors
+      shall not proceed until calibration is completed.
+
+4.4.3 Calibration records for all gas detection equipment shall be maintained and available
+      for inspection. Records shall include: calibration date, technician name, reference
+      gas certificate number, pre-calibration reading, and post-calibration reading.
+
+CHAPTER 5 — RESPONSIBILITIES
+
+5.1 FACILITY MANAGEMENT
+    (a) Ensure a written Hot Work Permit procedure is in place and reviewed annually.
+    (b) Ensure all Permit Issuing Authorities are trained and assessed as competent.
+    (c) Ensure adequate gas detection equipment is available and maintained.
+
+5.2 PERMIT ISSUING AUTHORITY
+    (a) Conduct physical inspection before issuing any permit.
+    (b) Record all gas readings on the permit form — never leave gas reading fields blank.
+    (c) Suspend hot work immediately on any gas alarm or elevated reading.
+    (d) Ensure hot work is fully completed or safely abandoned before permit closure.
+
+5.3 PERMIT RECEIVER
+    (a) Understand the conditions and limitations of the permit before commencing work.
+    (b) Stop work immediately if any of the suspension conditions in 4.2.2 arise.
+    (c) Not commence hot work before the permit is signed and in hand.
+
+CHAPTER 6 — LESSONS LEARNED AND PERMIT SYSTEM REVIEW
+
+6.1 All hot work incidents and near-misses shall be reviewed to identify gaps in the
+    permit system.
+
+6.2 Where the same location or equipment tag appears in two or more hot work related
+    incidents or near-misses within a 5-year period, the facility shall:
+    (a) Conduct a formal investigation of the recurring pattern.
+    (b) Review whether the hot work procedure for that specific area is adequate.
+    (c) Consider whether additional engineering controls (interlocks, additional monitoring)
+        are warranted.
+
+6.2.4 Recurring gas alarm events: If a fixed detector in a hot work area triggers at
+      >15% LEL on two or more occasions while a hot work permit is active, the facility's
+      permit procedures for that area shall be formally reviewed within 30 days and updated
+      with additional safeguards. The lessons learned shall be shared with all permit
+      issuing authorities.
+
+CHAPTER 7 — DOCUMENTATION
+
+7.1 Completed Hot Work Permits shall be retained for a minimum of 3 years.
+7.2 A register of all hot work permits issued shall be maintained.
+7.3 Gas test records associated with hot work permits shall be retained with the permit.
+
+───────────────────────────────────────────────────────────────────
+END OF SYNTHETIC OISD-STD-105 REFERENCE DOCUMENT
+Prepared for: PlantBrain Demo Corpus — Vindhya Steelworks
+Cross-reference in demo: Clauses 4.1.3, 4.1.4, 4.3.2, 6.2.4
+───────────────────────────────────────────────────────────────────

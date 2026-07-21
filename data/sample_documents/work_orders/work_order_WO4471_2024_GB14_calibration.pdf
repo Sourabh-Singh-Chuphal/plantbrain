@@ -1,0 +1,469 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+
+2 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Courier /Encoding /WinAnsiEncoding >>
+endobj
+
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Courier-Bold /Encoding /WinAnsiEncoding >>
+endobj
+
+5 0 obj
+<< /Length 7361 >>
+stream
+
+0.071 0.071 0.071 rg
+0 804 595 38 re f
+0 0 0 rg
+0.000 0.800 0.627 rg
+BT
+/FHelvB 9 Tf
+50 826 Td
+(VINDHYA STEELWORKS PVT. LTD.) Tj
+ET
+0 0 0 rg
+0.549 0.549 0.549 rg
+BT
+/FHelv 7 Tf
+50 815 Td
+(Chandrapur Industrial Zone, Maharashtra  442 401) Tj
+ET
+0 0 0 rg
+0.000 0.706 0.549 rg
+420 808 130 28 re f
+0 0 0 rg
+1.000 1.000 1.000 rg
+BT
+/FHelvB 8 Tf
+430 825 Td
+(WORK ORDER) Tj
+ET
+0 0 0 rg
+0.000 0.706 0.549 RG
+1.0 w
+50 800 m 545 800 l S
+0 0 0 RG
+0.314 0.314 0.314 RG
+0.5 w
+50 48 m 545 48 l S
+0 0 0 RG
+0.549 0.549 0.549 rg
+BT
+/FHelv 6 Tf
+50 35 Td
+(PlantBrain Demo Corpus  |  Synthetic Document ? All persons and events are fictional  |  19 Jul 2026) Tj
+ET
+0 0 0 rg
+0.961 0.651 0.137 RG
+0.6 w
+50 786 m 545 786 l S
+0 0 0 RG
+0.784 0.510 0.000 rg
+BT
+/FHelvB 8 Tf
+50 774 Td
+(MAINTENANCE WORK ORDER) Tj
+ET
+0 0 0 rg
+0.961 0.651 0.137 RG
+0.6 w
+50 763 m 545 763 l S
+0 0 0 RG
+0.118 0.118 0.118 rg
+BT
+/FCour 8 Tf
+50 749 Td
+(Work Order No.  : WO-4471) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 8 Tf
+50 737 Td
+(Date Issued     : 21 August 2024) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 8 Tf
+50 725 Td
+(Priority        : HIGH) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 8 Tf
+50 713 Td
+(Status          : COMPLETED) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 8 Tf
+50 701 Td
+(Department      : Instrumentation & Electrical) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 8 Tf
+50 689 Td
+(Location        : Bay 4, Zone C) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 8 Tf
+50 677 Td
+(Equipment Tag   : GB-14 \(Draeger Polytron 2 XP Combustible Gas Detector\)) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 8 Tf
+50 665 Td
+(Assigned To     : Anil Mehta, Senior Technician \(I&E\)) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 8 Tf
+50 653 Td
+(Supervised By   : Rajiv Sharma, Maintenance Supervisor) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 8 Tf
+50 641 Td
+(Approved By     : Deepak Singh, Maintenance Engineer) Tj
+ET
+0 0 0 rg
+0.961 0.651 0.137 RG
+0.6 w
+50 626 m 545 626 l S
+0 0 0 RG
+0.784 0.510 0.000 rg
+BT
+/FHelvB 8 Tf
+50 614 Td
+(1. WORK DESCRIPTION) Tj
+ET
+0 0 0 rg
+0.961 0.651 0.137 RG
+0.6 w
+50 603 m 545 603 l S
+0 0 0 RG
+0.118 0.118 0.118 rg
+BT
+/FCour 8 Tf
+50 594 Td
+(Routine inspection and calibration of combustible gas detector GB-14 in Bay 4, Zone C.) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 8 Tf
+50 582 Td
+(Work triggered by Shift Handover Log SHL-2024-0819 dated 19 August 2024, which noted) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 8 Tf
+50 570 Td
+(GB-14 readings of 18% LEL during shift changeover ? above the 10% LEL notification) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 8 Tf
+50 558 Td
+(threshold defined in procedure SHP-04.) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 8 Tf
+50 541 Td
+(A Hot Work Permit \(HWP-2024-339\) was active in Bay 4 on 19 August 2024 for pipe welding) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 8 Tf
+50 529 Td
+(activities at the time of the elevated reading. The welding was suspended at 06:47 IST) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 8 Tf
+50 517 Td
+(pending gas reading investigation.) Tj
+ET
+0 0 0 rg
+0.961 0.651 0.137 RG
+0.6 w
+50 502 m 545 502 l S
+0 0 0 RG
+0.784 0.510 0.000 rg
+BT
+/FHelvB 8 Tf
+50 490 Td
+(2. WORK PERFORMED) Tj
+ET
+0 0 0 rg
+0.961 0.651 0.137 RG
+0.6 w
+50 479 m 545 479 l S
+0 0 0 RG
+0.118 0.118 0.118 rg
+BT
+/FCour 8 Tf
+50 470 Td
+(Date Commenced  : 21 August 2024, 08:00 IST) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 8 Tf
+50 458 Td
+(Date Completed  : 21 August 2024, 11:30 IST) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 8 Tf
+50 441 Td
+(Step 1 ? Bump test performed using 50% LEL methane gas standard.) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 7.5 Tf
+50 429 Td
+(         Response: 47% LEL \(within ±5% tolerance\). Sensor functional.) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 8 Tf
+50 412 Td
+(Step 2 ? Zero calibration performed. Pre-cal zero reading: +2.1% LEL \(drift noted\).) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 8 Tf
+50 395 Td
+(Step 3 ? Span calibration performed using 50% LEL certified methane reference gas) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 7.5 Tf
+50 383 Td
+(         \(Cert. No. CAL-2024-MET-7723, valid until December 2024\).) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 7.5 Tf
+50 371 Td
+(         Post-calibration reading: 50.0% LEL. PASS.) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 8 Tf
+50 354 Td
+(Step 4 ? Zero reading post-calibration: 0.0% LEL. PASS.) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 8 Tf
+50 337 Td
+(Step 5 ? Visual inspection: sensor housing intact. Cable glands secure. No corrosion.) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 7.5 Tf
+50 325 Td
+(         Sensor last replaced: 12 February 2022 \(WO-4102\). Sensor age: 30 months.) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 7.5 Tf
+50 313 Td
+(         Note: Draeger recommends sensor element replacement every 24 months. OVERDUE.) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 8 Tf
+50 296 Td
+(Step 6 ? Sensor element replacement scheduled under separate work order \(WO-4473,) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 7.5 Tf
+50 284 Td
+(         pending procurement of Draeger spare ? P/N 4511545\).) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 8 Tf
+50 267 Td
+(Step 7 ? Area gas reading post-maintenance: 0.0% LEL. Bay 4 cleared for operations.) Tj
+ET
+0 0 0 rg
+0.961 0.651 0.137 RG
+0.6 w
+50 252 m 545 252 l S
+0 0 0 RG
+0.784 0.510 0.000 rg
+BT
+/FHelvB 8 Tf
+50 240 Td
+(3. FINDINGS & OBSERVATIONS) Tj
+ET
+0 0 0 rg
+0.961 0.651 0.137 RG
+0.6 w
+50 229 m 545 229 l S
+0 0 0 RG
+0.118 0.118 0.118 rg
+BT
+/FCour 8 Tf
+50 220 Td
+(\(a\) The 18% LEL reading on 19 August 2024 was attributed to a combination of calibration) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 7.5 Tf
+50 208 Td
+(    drift \(pre-cal zero offset of +2.1% LEL\) and actual trace methane present in Bay 4) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 7.5 Tf
+50 196 Td
+(    due to a small flange connection seepage at heat exchanger HX-11 \(adjacent to GB-14\).) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 7.5 Tf
+50 184 Td
+(    HX-11 flange inspection raised separately as WO-4476.) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 8 Tf
+50 167 Td
+(\(b\) IMPORTANT NOTE: This is the second time in the past 5 years that elevated gas readings) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 7.5 Tf
+50 155 Td
+(    on GB-14 have coincided with an active hot work permit in Bay 4. The previous occurrence) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 7.5 Tf
+50 143 Td
+(    was documented in Near-Miss Report NMR-2019-047 \(March 2019\). Recommend this pattern) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 7.5 Tf
+50 131 Td
+(    be flagged in the lessons-learned register and that the Hot Work Permit procedure for) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 7.5 Tf
+50 119 Td
+(    Bay 4 require mandatory gas reading from GB-14 within 15 minutes \(currently 30 minutes) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 7.5 Tf
+50 107 Td
+(    per OISD-STD-105\).) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 8 Tf
+50 90 Td
+(\(c\) CA-04 from NMR-2019-047 \(digital calibration tracking system\) was never implemented.) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 7.5 Tf
+50 78 Td
+(    This calibration overdue situation \(sensor element 6 months past replacement schedule\)) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 7.5 Tf
+50 66 Td
+(    would have been prevented by an automated system.) Tj
+ET
+0 0 0 rg
+endstream
+endobj
+
+6 0 obj
+<< /Type /Page /Parent 8 0 R /MediaBox [0 0 595 842] /Contents 5 0 R /Resources << /Font << /FHelv 1 0 R /FHelvB 2 0 R /FCour 3 0 R /FCourB 4 0 R >> >> >>
+endobj
+
+7 0 obj
+<< /Type /Pages /Kids [6 0 R] /Count 1 >>
+endobj
+
+8 0 obj
+<< /Type /Catalog /Pages 7 0 R >>
+endobj
+
+xref
+0 9
+0000000000 65535 f 
+0000000009 00000 n 
+0000000107 00000 n 
+0000000210 00000 n 
+0000000306 00000 n 
+0000000407 00000 n 
+0000007822 00000 n 
+0000007993 00000 n 
+0000008051 00000 n 
+trailer
+<< /Size 9 /Root 8 0 R >>
+startxref
+8101
+%%EOF

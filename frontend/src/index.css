@@ -1,0 +1,154 @@
+@import url('https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,600;1,6..72,400&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap');
+@import "tailwindcss";
+
+:root {
+  /* Nature-inspired Warm Cream & Sage Green Palette (Light Theme) */
+  --bg:           #FAF8F3;              /* Page background — warm off-white cream */
+  --surface:      #FFFFFF;              /* Primary surface / card background — pure white */
+  --surface-2:    #F2EFE7;              /* Secondary surface — soft warm beige/stone */
+  --border:       #E5E1D5;              /* Card & panel borders — soft warm beige */
+  --border-light: #EFECE2;              /* Separators & quiet dividers */
+  --text-primary: #1A241E;              /* Primary text & headings — deep forest charcoal */
+  --text-muted:   #606C64;              /* Secondary text & labels — muted warm olive gray */
+  --text-dim:     #929E96;              /* Column headers & tiny tags — soft dim olive */
+  
+  /* Primary Brand Accent — Organic Sage Forest Green */
+  --teal:         #3D6346;              /* Primary CTA, active badges, highlights */
+  --teal-dim:     rgba(61, 99, 70, 0.08); /* Light sage card background tint */
+  --teal-hover:   #325239;              /* Darker sage for hover states */
+  
+  /* Accent Colors */
+  --amber:        #D9822B;              /* Warning, in-progress, entity accent — terracotta */
+  --amber-dim:    rgba(217, 130, 43, 0.10);
+  --red:          #C94A4A;              /* Failed, critical, safety alerts — soft crimson */
+  --red-dim:      rgba(201, 74, 74, 0.10);
+  --purple:       #7A5C9E;              /* Personnel node color — soft violet */
+}
+
+/* Dark Enterprise Theme */
+body.dark-mode {
+  --bg:           #0A0A0A;
+  --surface:      #111111;
+  --surface-2:    #181818;
+  --border:       #242424;
+  --border-light: #2A2A2A;
+  --text-primary: #FFFFFF;
+  --text-muted:   #888888;
+  --text-dim:     #555555;
+  --teal:         #00D4A4;
+  --teal-dim:     rgba(0, 212, 164, 0.12);
+  --teal-hover:   #00B88F;
+  --amber:        #F5A623;
+  --amber-dim:    rgba(245, 166, 37, 0.12);
+  --red:          #FF4444;
+  --red-dim:      rgba(255, 68, 68, 0.12);
+  --purple:       #8B5CF6;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: var(--bg);
+  color: var(--text-primary);
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  font-size: 14px;
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Serif typography helper for elegant titles & key metrics */
+.font-serif, h1, .serif-heading {
+  font-family: 'Newsreader', Georgia, serif;
+  font-weight: 500;
+  letter-spacing: -0.01em;
+}
+
+/* Scrollbar */
+::-webkit-scrollbar { width: 5px; height: 5px; }
+::-webkit-scrollbar-track { background: var(--bg); }
+::-webkit-scrollbar-thumb { background: var(--border); border-radius: 999px; }
+::-webkit-scrollbar-thumb:hover { background: var(--text-dim); }
+
+/* Skeleton shimmer */
+@keyframes shimmer {
+  0% { background-position: -400px 0; }
+  100% { background-position: 400px 0; }
+}
+.skeleton {
+  background: linear-gradient(90deg, var(--surface-2) 0%, #E8E4D9 50%, var(--surface-2) 100%);
+  background-size: 800px 100%;
+  animation: shimmer 1.5s infinite linear;
+  border-radius: 6px;
+}
+
+/* Count-up number */
+.metric-value {
+  font-family: 'Newsreader', Georgia, serif;
+  font-size: 38px;
+  font-weight: 500;
+  color: var(--text-primary);
+  line-height: 1;
+}
+
+/* Status pills */
+.pill-teal  { background: var(--teal);   color: #FFFFFF; font-size: 11px; font-weight: 600; border-radius: 999px; padding: 3px 10px; }
+.pill-amber { background: var(--amber);  color: #FFFFFF; font-size: 11px; font-weight: 600; border-radius: 999px; padding: 3px 10px; }
+.pill-red   { background: var(--red);    color: #FFFFFF; font-size: 11px; font-weight: 600; border-radius: 999px; padding: 3px 10px; }
+
+/* Red pulse for failed items */
+@keyframes redPulse {
+  0%, 100% { box-shadow: 0 0 0 0 rgba(201, 74, 74, 0.0); }
+  50%       { box-shadow: 0 0 0 4px rgba(201, 74, 74, 0.20); }
+}
+.pulse-red { animation: redPulse 2s infinite; }
+
+/* Card base with soft organic shadow */
+.card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  box-shadow: 0 4px 20px -2px rgba(26, 36, 30, 0.04), 0 2px 6px -1px rgba(26, 36, 30, 0.02);
+}
+
+/* Input */
+.input-dark {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  color: var(--text-primary);
+  border-radius: 999px;
+  padding: 10px 18px;
+  outline: none;
+  width: 100%;
+  font-size: 13px;
+  font-family: inherit;
+  transition: border-color 0.15s, box-shadow 0.15s;
+}
+.input-dark:focus {
+  border-color: var(--teal);
+  box-shadow: 0 0 0 3px var(--teal-dim);
+}
+.input-dark::placeholder { color: var(--text-dim); }
+
+/* Section label */
+.section-label {
+  color: var(--text-muted);
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  margin-bottom: 8px;
+}
+
+/* Thinking animation */
+@keyframes thinking {
+  0%, 80%, 100% { opacity: 0.3; transform: scale(0.8); }
+  40% { opacity: 1; transform: scale(1); }
+}
+.thinking-dot:nth-child(1) { animation: thinking 1.4s infinite 0s; }
+.thinking-dot:nth-child(2) { animation: thinking 1.4s infinite 0.2s; }
+.thinking-dot:nth-child(3) { animation: thinking 1.4s infinite 0.4s; }
+

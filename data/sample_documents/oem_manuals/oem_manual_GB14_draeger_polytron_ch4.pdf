@@ -1,0 +1,472 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+
+2 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Courier /Encoding /WinAnsiEncoding >>
+endobj
+
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Courier-Bold /Encoding /WinAnsiEncoding >>
+endobj
+
+5 0 obj
+<< /Length 7623 >>
+stream
+
+0.071 0.071 0.071 rg
+0 804 595 38 re f
+0 0 0 rg
+0.000 0.800 0.627 rg
+BT
+/FHelvB 9 Tf
+50 826 Td
+(VINDHYA STEELWORKS PVT. LTD.) Tj
+ET
+0 0 0 rg
+0.549 0.549 0.549 rg
+BT
+/FHelv 7 Tf
+50 815 Td
+(Chandrapur Industrial Zone, Maharashtra  442 401) Tj
+ET
+0 0 0 rg
+0.000 0.706 0.549 rg
+420 808 130 28 re f
+0 0 0 rg
+1.000 1.000 1.000 rg
+BT
+/FHelvB 8 Tf
+430 825 Td
+(OEM MANUAL) Tj
+ET
+0 0 0 rg
+0.000 0.706 0.549 RG
+1.0 w
+50 800 m 545 800 l S
+0 0 0 RG
+0.314 0.314 0.314 RG
+0.5 w
+50 48 m 545 48 l S
+0 0 0 RG
+0.549 0.549 0.549 rg
+BT
+/FHelv 6 Tf
+50 35 Td
+(PlantBrain Demo Corpus  |  Synthetic Document ? All persons and events are fictional  |  19 Jul 2026) Tj
+ET
+0 0 0 rg
+0.784 0.510 0.000 rg
+BT
+/FHelvB 8 Tf
+50 781 Td
+(DRAEGER POLYTRON 2 XP) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 8 Tf
+50 768 Td
+(Combustible Gas Detector ? Operation & Maintenance Manual) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 8 Tf
+50 756 Td
+(EXCERPT: Chapter 4 ? Calibration, Maintenance & Troubleshooting) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 8 Tf
+50 744 Td
+(Document Ref: Draeger-P2XP-OM-EN-Rev7) Tj
+ET
+0 0 0 rg
+0.902 0.941 1.000 rg
+48 724 499 12 re f
+0 0 0 rg
+0.235 0.314 0.627 rg
+BT
+/FCour 7.5 Tf
+52 727 Td
+(NOTE: This is an excerpt for training and maintenance purposes.) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 8 Tf
+50 715 Td
+(Full manual available from Draeger Safety AG, Lübeck, Germany.) Tj
+ET
+0 0 0 rg
+0.961 0.651 0.137 RG
+0.6 w
+50 705 m 545 705 l S
+0 0 0 RG
+0.784 0.510 0.000 rg
+BT
+/FHelvB 8 Tf
+50 688 Td
+(4.1 INTRODUCTION TO CALIBRATION) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 8 Tf
+50 670 Td
+(The Polytron 2 XP uses a catalytic bead \(pellistor\) sensor to detect combustible gases.) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 8 Tf
+50 658 Td
+(Accurate detection depends on periodic calibration to compensate for sensor aging, poisoning,) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 8 Tf
+50 646 Td
+(and environmental factors. Failure to calibrate on schedule is the leading cause of false) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 8 Tf
+50 634 Td
+(negatives \(failure to alarm when gas is present\) and false positives \(nuisance alarms\).) Tj
+ET
+0 0 0 rg
+0.784 0.510 0.000 rg
+BT
+/FHelvB 8 Tf
+50 614 Td
+(4.2 CALIBRATION INTERVALS) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 8 Tf
+50 596 Td
+(4.2.1 Standard Calibration Schedule) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 7.5 Tf
+50 584 Td
+(  - Zero check \(bump test\): Every 30 days, or before any hot work in the monitored area.) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 7.5 Tf
+50 572 Td
+(  - Full calibration \(zero + span\): Every 6 months, or after any alarm event.) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 7.5 Tf
+50 560 Td
+(  - Sensor element replacement: Every 24 months, or when span calibration cannot be achieved) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 7.5 Tf
+50 548 Td
+(    within ±5% of reference gas value after two consecutive attempts.) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 8 Tf
+50 531 Td
+(4.2.2 Accelerated Calibration Triggers) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 8 Tf
+50 519 Td
+(The following conditions require IMMEDIATE calibration regardless of schedule:) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 7.5 Tf
+50 507 Td
+(  \(a\) Any alarm event above 25% LEL.) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 7.5 Tf
+50 495 Td
+(  \(b\) Sensor exposure to silicone vapours, lead compounds, halogenated solvents, or H2S) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 7.5 Tf
+50 483 Td
+(      concentrations above 200 ppm ? these compounds cause catalytic bead poisoning and) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 7.5 Tf
+50 471 Td
+(      permanently reduce sensor sensitivity.) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 7.5 Tf
+50 459 Td
+(  \(c\) Sensor readings that drift more than ±3% LEL from known zero in a clean atmosphere.) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 7.5 Tf
+50 447 Td
+(  \(d\) Any physical impact or moisture ingress to the sensor housing.) Tj
+ET
+0 0 0 rg
+0.784 0.510 0.000 rg
+BT
+/FHelvB 8 Tf
+50 427 Td
+(4.3 CALIBRATION PROCEDURE) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 8 Tf
+50 409 Td
+(4.3.1 Pre-Calibration Safety Requirements) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 8 Tf
+50 397 Td
+(IMPORTANT: Before performing calibration in a live area:) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 7.5 Tf
+50 385 Td
+(  \(a\) Obtain a Hot Work / Gas Work permit from the area supervisor.) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 7.5 Tf
+50 373 Td
+(  \(b\) Verify the area reading is below 10% LEL using a portable gas detector BEFORE) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 7.5 Tf
+50 361 Td
+(      connecting calibration gas or opening the sensor housing.) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 7.5 Tf
+50 349 Td
+(  \(c\) Inform the shift operator and control room of planned calibration activity.) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 7.5 Tf
+50 337 Td
+(  \(d\) Have a second person present as safety observer.) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 8 Tf
+50 320 Td
+(4.3.2 Zero Calibration) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 7.5 Tf
+50 308 Td
+(  Step 1: Connect certified zero gas \(synthetic clean air, <1 ppm HC\) at 0.5 L/min.) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 7.5 Tf
+50 296 Td
+(  Step 2: Allow reading to stabilise \(minimum 2 minutes\).) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 7.5 Tf
+50 284 Td
+(  Step 3: If reading is within ±1% LEL of zero, no adjustment required. Log and sign off.) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 7.5 Tf
+50 272 Td
+(  Step 4: If reading is outside ±1% LEL, adjust zero potentiometer per Figure 4-3.) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 7.5 Tf
+50 260 Td
+(  Step 5: Record pre-adjustment and post-adjustment readings on Calibration Record Form CF-01.) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 8 Tf
+50 243 Td
+(4.3.3 Span Calibration) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 7.5 Tf
+50 231 Td
+(  Step 1: Use certified reference gas at 50% LEL methane in nitrogen balance.) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 7.5 Tf
+50 219 Td
+(          IMPORTANT: Reference gas cylinder must have a valid calibration certificate) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 7.5 Tf
+50 207 Td
+(          dated within the past 12 months from an accredited laboratory.) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 7.5 Tf
+50 195 Td
+(  Step 2: Connect at 0.5 L/min via the sensor inlet cap \(Figure 4-4\).) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 7.5 Tf
+50 183 Td
+(  Step 3: Allow reading to stabilise \(minimum 3 minutes\).) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 7.5 Tf
+50 171 Td
+(  Step 4: Adjust span potentiometer until display reads 50.0% ±1.0% LEL.) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 7.5 Tf
+50 159 Td
+(  Step 5: If span cannot be achieved within ±5% of reference after two attempts,) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 7.5 Tf
+50 147 Td
+(          sensor element requires replacement \(see Section 4.5\).) Tj
+ET
+0 0 0 rg
+0.784 0.510 0.000 rg
+BT
+/FHelvB 8 Tf
+50 127 Td
+(4.4 RECOGNISING PRE-FAILURE DRIFT) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 8 Tf
+50 109 Td
+(4.4.1 Early Warning Signs) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 8 Tf
+50 97 Td
+(Sensor degradation typically follows a predictable pattern:) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 7.5 Tf
+50 85 Td
+(  Phase 1 \(Early\): Zero drift increases gradually. Span calibration achievable.) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 7.5 Tf
+50 73 Td
+(  Phase 2 \(Mid\):   Zero drift >2% LEL. Span requires multiple adjustments.) Tj
+ET
+0 0 0 rg
+endstream
+endobj
+
+6 0 obj
+<< /Type /Page /Parent 8 0 R /MediaBox [0 0 595 842] /Contents 5 0 R /Resources << /Font << /FHelv 1 0 R /FHelvB 2 0 R /FCour 3 0 R /FCourB 4 0 R >> >> >>
+endobj
+
+7 0 obj
+<< /Type /Pages /Kids [6 0 R] /Count 1 >>
+endobj
+
+8 0 obj
+<< /Type /Catalog /Pages 7 0 R >>
+endobj
+
+xref
+0 9
+0000000000 65535 f 
+0000000009 00000 n 
+0000000107 00000 n 
+0000000210 00000 n 
+0000000306 00000 n 
+0000000407 00000 n 
+0000008084 00000 n 
+0000008255 00000 n 
+0000008313 00000 n 
+trailer
+<< /Size 9 /Root 8 0 R >>
+startxref
+8363
+%%EOF

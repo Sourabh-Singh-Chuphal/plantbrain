@@ -1,0 +1,32 @@
+# Environment & Secrets
+.env
+*.env
+backend/.env
+frontend/.env.local
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+env/
+*.log
+
+# Node & Frontend
+node_modules/
+frontend/node_modules/
+frontend/dist/
+frontend/dist-ssr/
+*.local
+
+# Local Data & Database Storage
+backend/chroma_data/
+chroma_data/
+.tempmediaStorage/
+scratch/
+
+# OS Files
+.DS_Store
+Thumbs.db

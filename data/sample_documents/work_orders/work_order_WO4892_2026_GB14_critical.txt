@@ -1,0 +1,101 @@
+VINDHYA STEELWORKS PVT. LTD.
+Chandrapur Industrial Zone, Maharashtra — 442 401
+═══════════════════════════════════════════════════════
+MAINTENANCE WORK ORDER
+═══════════════════════════════════════════════════════
+
+Work Order No.  : WO-4892
+Date Issued     : 22 January 2026
+Priority        : CRITICAL
+Status          : IN PROGRESS
+Department      : Instrumentation & Electrical / HSE
+Location        : Bay 4, Zone C
+Equipment Tag   : GB-14 (Draeger Polytron 2 XP Combustible Gas Detector)
+Assigned To     : Anil Mehta, Senior Technician (I&E)
+Supervised By   : Rajiv Sharma, Maintenance Supervisor
+HSE Sign-off    : Kavita Desai, HSE Manager (replacing Priya Nair, retired Dec 2025)
+Approved By     : Deepak Singh, Maintenance Engineer
+
+───────────────────────────────────────────────────────
+1. WORK DESCRIPTION
+───────────────────────────────────────────────────────
+URGENT: Suspension and investigation of gas sensor GB-14 following sustained elevated
+reading of 22% LEL recorded during Night Shift on 21 January 2026 (Shift Handover Log
+SHL-2026-0121).
+
+A Hot Work Permit (HWP-2026-018) was active in Bay 4, Zone C on 21 January 2026 for
+plasma-cutting operations on pressure vessel PV-08 structural support bracket.
+The permit was issued at 21:30 IST by Rajiv Sharma. At 23:15 IST, Operator Suresh Kumar
+(Night Shift) noted GB-14 reading 22% LEL and suspended hot work.
+
+THIS IS THE THIRD OCCURRENCE of elevated GB-14 readings coinciding with active hot work
+in Bay 4. Previous occurrences:
+  1. March 2019 — 27% LEL, near-miss, NMR-2019-047
+  2. August 2024 — 18% LEL, sensor drift + HX-11 flange seepage, WO-4471
+
+Pattern noted by Rajiv Sharma. Immediate escalation to Plant Manager Mohan Rao and
+HSE Manager Kavita Desai at 23:45 IST on 21 January 2026.
+
+───────────────────────────────────────────────────────
+2. IMMEDIATE ACTIONS (22 JAN 2026)
+───────────────────────────────────────────────────────
+01:00 — All hot work in Bay 4 suspended indefinitely pending investigation.
+02:30 — Portable multi-gas detector deployed by Anil Mehta. Reading at GB-14 location:
+         CH4: 19% LEL, CO: 12 ppm, H2S: 0 ppm. Methane source confirmed present.
+05:00 — HX-11 flange joint #7 (same joint flagged in WO-4476, Aug 2024) found to have
+         progressive seepage — compression gasket degraded. Emergency isolation actioned.
+06:15 — Bay 4 ventilated. Methane at GB-14 location: 2% LEL. Area safe.
+07:00 — GB-14 calibration checked. Zero drift: +3.8% LEL. Span: 48% LEL at 50% reference.
+         Sensor out of tolerance. Emergency recalibration performed.
+
+───────────────────────────────────────────────────────
+3. ROOT CAUSE INVESTIGATION (in progress)
+───────────────────────────────────────────────────────
+Preliminary root causes identified (formal RCA to follow under RCA-2026-007):
+
+(a) HX-11 flange joint #7: Gasket (spiral-wound, 150# ANSI) degraded due to thermal
+    cycling. This is the SAME joint identified in WO-4476 (August 2024) where seepage
+    was noted. WO-4476 was closed as "monitoring required" without gasket replacement.
+    Corrective action from WO-4476 was not completed.
+
+(b) GB-14 sensor element: Last replaced per WO-4473 (November 2024). Replacement was
+    overdue 6 months prior (first noted in WO-4471). At 14 months of use, sensor
+    is within manufacturer's 24-month replacement interval but calibration drift of
+    +3.8% LEL suggests early degradation — possibly due to Bay 4 methane exposure.
+
+(c) Hot Work Permit HWP-2026-018: Issued by Rajiv Sharma without live GB-14 reading check.
+    Procedure updated in 2019 (CA-02 from NMR-2019-047) requires live reading within
+    30 minutes. Permit paperwork shows the gas reading field was marked "N/A — routine area"
+    rather than recording an actual reading. This procedural shortcut has recurred.
+
+(d) Pattern recognition failure: The recurrence of this exact scenario (elevated GB-14 +
+    active hot work, Bay 4) across 3 events over 7 years was not identified proactively
+    by any system or personnel. Each event was treated as isolated.
+
+───────────────────────────────────────────────────────
+4. ACTIONS ISSUED (WO-4892)
+───────────────────────────────────────────────────────
+4892-01 | HX-11 Flange #7: Emergency gasket replacement (Anil Mehta, Suresh Kumar).
+          Target: 24 Jan 2026.
+4892-02 | GB-14: Full sensor element replacement and 4-point calibration check.
+          Target: 23 Jan 2026.
+4892-03 | FORMAL RCA (RCA-2026-007) to be completed within 14 days. Rajiv Sharma lead.
+4892-04 | Hot Work Permit procedure for Bay 4 to be revised: mandatory live GB-14 reading
+          (not "N/A") required before any permit issuance. Kavita Desai to revise procedure.
+4892-05 | Lessons-learned session to be conducted for ALL shift operators and supervisors.
+          To include NMR-2019-047, WO-4471, and WO-4892 as a case study.
+4892-06 | Investigate implementation of CA-04 from NMR-2019-047 (digital calibration +
+          permit cross-check system) — 7 years overdue.
+
+───────────────────────────────────────────────────────
+5. SIGNATURES
+───────────────────────────────────────────────────────
+Technician      : Anil Mehta              Date: 22/01/2026
+Supervisor      : Rajiv Sharma            Date: 22/01/2026
+HSE Manager     : Kavita Desai            Date: 22/01/2026
+Plant Manager   : Mohan Rao              Date: 22/01/2026
+
+CROSS-REFERENCE: NMR-2019-047, WO-4471, WO-4473, WO-4476, HWP-2026-018, SHL-2026-0121,
+                 RCA-2026-007
+REGULATORY REF : OISD-STD-105 Clause 4.3.1, OISD-STD-105 Clause 6.2.4
+═══════════════════════════════════════════════════════

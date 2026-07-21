@@ -1,0 +1,88 @@
+VINDHYA STEELWORKS PVT. LTD.
+Chandrapur Industrial Zone, Maharashtra — 442 401
+═══════════════════════════════════════════════════════
+NEAR-MISS INCIDENT REPORT
+═══════════════════════════════════════════════════════
+
+Report No.      : NMR-2019-047
+Date of Incident: 14 March 2019
+Time of Incident: 14:32 IST
+Location        : Bay 4, Zone C — Furnace Pre-heat Section
+Equipment Tag   : GB-14 (Draeger Polytron 2 XP Combustible Gas Detector)
+Report Prepared : Priya Nair, HSE Manager
+Reviewed By     : Mohan Rao, Plant Manager
+Date Submitted  : 15 March 2019
+
+───────────────────────────────────────────────────────
+1. INCIDENT DESCRIPTION
+───────────────────────────────────────────────────────
+At 14:32 on 14 March 2019, equipment tag GB-14 (combustible gas detector installed at Bay 4,
+Zone C, at elevation 3.2m) registered a sustained alarm reading of 27% LEL (Lower Explosive
+Limit). The reading had been gradually rising from 11% LEL since 12:15 IST but was not
+escalated by the shift operator (Suresh Kumar, Operator-II) until it crossed the 25% LEL
+threshold trigger.
+
+At the time of the alarm, a hot work permit (Permit No. HWP-2019-112) had been issued for
+gas cutting operations being carried out by contractor technician Balraj Tiwari (Sarwa
+Contractors Pvt. Ltd.) approximately 8 metres from the GB-14 sensor location. The permit had
+been authorised by Rajiv Sharma (Maintenance Supervisor) at 13:45 IST.
+
+On receiving the alarm escalation, HSE Officer Priya Nair immediately issued a STOP WORK
+order. All hot work was halted. The area was ventilated using forced-draft blowers for 45
+minutes. A second gas reading at 15:20 showed 4% LEL. Normal operations resumed at 16:10.
+
+No fire, explosion, or injury occurred. This event is classified as a NEAR-MISS — Category 2
+(High Potential).
+
+───────────────────────────────────────────────────────
+2. IMMEDIATE CAUSES
+───────────────────────────────────────────────────────
+(a) GB-14 sensor had not been calibrated since 22 September 2018 (last calibration record:
+    Work Order WO-3591, Technician: Anil Mehta). The manufacturer (Draeger) recommends
+    6-monthly calibration. At the time of this incident the sensor was 174 days overdue.
+
+(b) Operator Suresh Kumar did not escalate the rising gas reading (11%→27% LEL over 137
+    minutes) per the Shift Handover Procedure SHP-04 which requires supervisor notification
+    at 15% LEL.
+
+(c) Hot Work Permit HWP-2019-112 was issued without a pre-work gas reading check from
+    GB-14, contrary to OISD-STD-105 Clause 4.3.1 which mandates a fresh gas reading within
+    30 minutes of hot work commencement.
+
+───────────────────────────────────────────────────────
+3. ROOT CAUSES
+───────────────────────────────────────────────────────
+(a) No automated system exists to block hot work permit issuance when nearby gas sensor
+    readings exceed 10% LEL. Permits are currently issued on paper without cross-checking
+    live sensor data.
+
+(b) Calibration tracking is manual (maintained in a paper logbook in the Maintenance
+    Supervisor's office). No digital reminder or work order auto-generation exists when
+    calibration is overdue.
+
+(c) Operator training records show Suresh Kumar last attended gas hazard escalation training
+    in February 2017 — over 2 years prior to this incident.
+
+───────────────────────────────────────────────────────
+4. CORRECTIVE ACTIONS ISSUED
+───────────────────────────────────────────────────────
+CA-01 | GB-14 to be calibrated within 72 hours. (Assigned: Anil Mehta. Due: 17 Mar 2019)
+CA-02 | All hot work permits in Bay 4 to require a live gas reading sign-off from the nearest
+       sensor (GB-14 or GB-17) within 30 minutes of permit issuance. (Immediate)
+CA-03 | Suresh Kumar to attend refresher training — Gas Hazard Response, Module 3.
+       (Due: 31 March 2019)
+CA-04 | Maintenance department to propose a digital calibration tracking system with
+       auto-generated work orders. (Due: 30 June 2019)
+CA-05 | Incident to be shared at next All-Hands Safety Meeting and added to lessons-learned
+       register. Permit no. HWP-2019-112 to be flagged in HSEQ system. (Due: 22 March 2019)
+
+───────────────────────────────────────────────────────
+5. SIGNATURES
+───────────────────────────────────────────────────────
+HSE Manager       : Priya Nair           Date: 15/03/2019
+Maintenance Supvr : Rajiv Sharma         Date: 15/03/2019
+Plant Manager     : Mohan Rao            Date: 16/03/2019
+
+DISTRIBUTION: HSE Files, Maintenance Department, Plant Manager Office, HSEQ Register
+CROSS-REFERENCE: HWP-2019-112, WO-3591, SHP-04, OISD-STD-105 Clause 4.3.1
+═══════════════════════════════════════════════════════

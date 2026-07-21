@@ -1,0 +1,67 @@
+VINDHYA STEELWORKS PVT. LTD.
+Chandrapur Industrial Zone, Maharashtra — 442 401
+═══════════════════════════════════════════════════════
+SHIFT HANDOVER LOG
+═══════════════════════════════════════════════════════
+
+Log Reference   : SHL-2026-0121
+Date            : 21–22 January 2026
+Shift           : Night Shift (22:00 — 06:00)
+Outgoing Shift  : C Shift — Suresh Kumar (Operator-III, Senior)
+Incoming Shift  : A Shift — Ravi Deshmukh (Operator-II)
+Shift Supervisor: Rajiv Sharma
+
+───────────────────────────────────────────────────────
+EQUIPMENT STATUS SUMMARY
+───────────────────────────────────────────────────────
+Equipment Tag | Status       | Notes
+─────────────────────────────────────────────────────
+GB-14         | ⚠ CRITICAL  | 22% LEL at 23:15 IST. RISING. Was 7% at 22:00.
+              |              | HOT WORK SUSPENDED 23:15. Rajiv Sharma paged.
+              |              | Portable detector deployed by Anil Mehta 02:30.
+              |              | HX-11 flange #7 seepage confirmed source.
+              |              | Area ventilated. Reading now 2% LEL (05:30).
+              |              | WO-4892 raised (CRITICAL priority).
+PM-07         | RUNNING      | Normal. Bearing temp 71°C.
+HX-11         | ⛔ ISOLATED  | Flange #7 gasket failure. Emergency isolation 05:00.
+              |              | Production impact: Feed pump bypass activated.
+              |              | WO-4892 covers HX-11 flange #7 repair.
+PV-08         | HOT WORK     | Plasma cutting (HWP-2026-018). SUSPENDED 23:15.
+              |              | Do NOT resume until WO-4892 cleared and GB-14 recalibrated.
+CV-22         | RUNNING      | Normal.
+CR-03         | PARKED       | Not used this shift.
+
+───────────────────────────────────────────────────────
+INCIDENT SUMMARY
+───────────────────────────────────────────────────────
+THIS IS THE THIRD TIME THIS HAS HAPPENED IN BAY 4 — GB-14 high reading with hot work active.
+
+Previous events (per Rajiv Sharma):
+1. March 2019: 27% LEL, near-miss, NMR-2019-047
+2. August 2024: 18% LEL, WO-4471
+
+Rajiv Sharma has escalated to Mohan Rao (Plant Manager) and Kavita Desai (HSE Manager)
+at 23:45. Formal incident investigation (RCA-2026-007) opened.
+
+Suresh Kumar's observation: "I recognised the reading pattern — it was the same as 2024.
+I suspended hot work immediately and called Rajiv without waiting for 25% threshold.
+Previous training said 25% but I acted at 15% because of the prior incidents."
+[Note: Suresh Kumar's early action likely prevented a repeat of the 2019 near-miss.]
+
+───────────────────────────────────────────────────────
+OPEN ACTIONS FOR INCOMING SHIFT
+───────────────────────────────────────────────────────
+1. CRITICAL: Do not resume any hot work in Bay 4 until written clearance from Kavita Desai.
+2. HX-11 bypass: Monitor bypass valve CV-11B closely. Flow target 180 m³/hr (vs. normal 240).
+3. WO-4892 active — Anil Mehta will be on-site from 07:00 for repairs.
+4. RCA-2026-007 kick-off meeting: 09:00, Conference Room B. All supervisors to attend.
+
+───────────────────────────────────────────────────────
+SIGNATURES
+───────────────────────────────────────────────────────
+Outgoing Operator : Suresh Kumar      Signature: ____  Time: 06:10
+Incoming Operator : Ravi Deshmukh     Signature: ____  Time: 06:10
+Shift Supervisor  : Rajiv Sharma      Signature: ____  Time: 06:15
+
+CROSS-REFERENCE: WO-4892, HWP-2026-018, NMR-2019-047, WO-4471, RCA-2026-007
+═══════════════════════════════════════════════════════

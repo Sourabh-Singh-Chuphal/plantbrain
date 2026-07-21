@@ -1,0 +1,53 @@
+VINDHYA STEELWORKS PVT. LTD.
+Chandrapur Industrial Zone, Maharashtra — 442 401
+═══════════════════════════════════════════════════════
+MAINTENANCE WORK ORDER
+═══════════════════════════════════════════════════════
+
+Work Order No.  : WO-3591
+Date Issued     : 22 September 2018
+Priority        : ROUTINE
+Status          : COMPLETED
+Department      : Instrumentation & Electrical
+Location        : Bay 4, Zone C
+Equipment Tag   : GB-14 (Draeger Polytron 2 XP Combustible Gas Detector)
+Assigned To     : Anil Mehta, Technician (I&E)
+Supervised By   : Rajiv Sharma, Maintenance Supervisor
+
+───────────────────────────────────────────────────────
+1. WORK DESCRIPTION
+───────────────────────────────────────────────────────
+Scheduled 6-monthly calibration of fixed combustible gas detector GB-14, Bay 4, Zone C.
+Previous calibration: 14 March 2018 (WO-3441).
+
+───────────────────────────────────────────────────────
+2. WORK PERFORMED
+───────────────────────────────────────────────────────
+Date Completed  : 22 September 2018, 09:45 IST
+
+Step 1 — Bump test: Response to 50% LEL methane standard: 49% LEL. PASS.
+Step 2 — Zero calibration: Pre-cal zero: 0.0% LEL. No adjustment required.
+Step 3 — Span calibration using 50% LEL methane (Cert. No. CAL-2018-MET-4419).
+          Post-calibration reading: 50.0% LEL. PASS.
+Step 4 — Visual inspection: Housing intact. No issues found.
+Step 5 — Sensor age: 1 year 6 months (installed March 2017). Within 24-month limit.
+
+───────────────────────────────────────────────────────
+3. NOTES
+───────────────────────────────────────────────────────
+Calibration completed satisfactorily. No abnormalities noted.
+Next calibration due: March 2019.
+Sensor element replacement due: March 2019 (24-month limit from March 2017 install).
+
+───────────────────────────────────────────────────────
+4. SIGNATURES
+───────────────────────────────────────────────────────
+Technician      : Anil Mehta              Date: 22/09/2018
+Supervisor      : Rajiv Sharma            Date: 22/09/2018
+
+NOTE: Next calibration (March 2019) was MISSED — not performed until after the
+near-miss incident of 14 March 2019 (NMR-2019-047). This gap was identified as
+Immediate Cause CA-(a) in NMR-2019-047.
+
+CROSS-REFERENCE: WO-3441 (previous cal), NMR-2019-047 (next significant event)
+═══════════════════════════════════════════════════════

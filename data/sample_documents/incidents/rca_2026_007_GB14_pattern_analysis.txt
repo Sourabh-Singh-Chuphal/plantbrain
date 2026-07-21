@@ -1,0 +1,127 @@
+VINDHYA STEELWORKS PVT. LTD.
+Chandrapur Industrial Zone, Maharashtra — 442 401
+═══════════════════════════════════════════════════════
+ROOT CAUSE ANALYSIS REPORT
+═══════════════════════════════════════════════════════
+
+RCA Reference   : RCA-2026-007
+Related Incident: WO-4892 — GB-14 Elevated Reading, Bay 4 (21 January 2026)
+RCA Lead        : Rajiv Sharma, Maintenance Supervisor
+RCA Team        : Kavita Desai (HSE), Deepak Singh (Maint. Engg), Anil Mehta (I&E)
+Completed       : 04 February 2026
+Approved By     : Mohan Rao, Plant Manager
+
+───────────────────────────────────────────────────────
+1. EVENT DESCRIPTION (SUMMARY)
+───────────────────────────────────────────────────────
+On 21 January 2026 at 23:15 IST, fixed gas detector GB-14 (Bay 4, Zone C) registered
+22% LEL methane while Hot Work Permit HWP-2026-018 was active for plasma cutting on
+PV-08 in Bay 4. Operator Suresh Kumar suspended hot work at 23:15. Investigation found
+methane source: HX-11 Flange #7 gasket failure. Area cleared by 06:15 on 22 January.
+
+This is the THIRD occurrence of this scenario — elevated GB-14 readings coinciding with
+active hot work in Bay 4. Previous events: NMR-2019-047 (March 2019) and WO-4471 (Aug 2024).
+
+───────────────────────────────────────────────────────
+2. TIMELINE OF EVENTS
+───────────────────────────────────────────────────────
+21 Jan 2026, 21:30 — Hot Work Permit HWP-2026-018 issued by Rajiv Sharma.
+                      Gas reading field on permit: "0% — area clear" (no time, no tester).
+21 Jan 2026, 22:00 — Shift change. Suresh Kumar takes over from Day Shift.
+                      GB-14 reading at handover: 7% LEL (noted in SHL-2026-0121).
+21 Jan 2026, 23:15 — Suresh Kumar observes GB-14 at 22% LEL (rising trend over 75 min).
+                      Immediate hot work suspension.
+22 Jan 2026, 02:30 — Anil Mehta arrives. Portable gas: 19% LEL at GB-14 location.
+22 Jan 2026, 05:00 — HX-11 Flange #7 gasket failure identified and isolated.
+22 Jan 2026, 06:15 — Area cleared (2% LEL). WO-4892 opened.
+
+───────────────────────────────────────────────────────
+3. ROOT CAUSE ANALYSIS (5-WHY METHOD)
+───────────────────────────────────────────────────────
+
+PROBLEM STATEMENT: GB-14 triggered at 22% LEL while hot work permit HWP-2026-018 was
+active in Bay 4, creating risk of ignition.
+
+Why 1: Why was there methane at 22% LEL in Bay 4?
+Answer: HX-11 Flange #7 gasket failed, allowing methane from the process stream to
+        accumulate in Bay 4.
+
+Why 2: Why did HX-11 Flange #7 gasket fail?
+Answer: The gasket had progressive degradation from thermal cycling. Seepage was first
+        identified in WO-4476 (August 2024) and was NOT permanently repaired — only
+        bolts were retorqued. No formal work order for gasket replacement was raised.
+
+Why 3: Why was gasket replacement not completed after WO-4476?
+Answer: WO-4476 was closed as "partial" with only a verbal instruction to raise a
+        follow-up WO at "next planned shutdown." No formal WO was raised. The 2025
+        Annual Safety Audit (SAR-2025) flagged this as open risk but it was not escalated.
+
+Why 4: Why was the hot work permit (HWP-2026-018) issued despite the known HX-11 seepage risk?
+Answer: Rajiv Sharma was not aware that the HX-11 gasket replacement was still outstanding.
+        There is no system linking open maintenance risks to permit issuance checks.
+        Additionally, the gas reading on the permit was recorded without time or tester
+        name — it is unclear when (or whether) a fresh gas reading was taken.
+
+Why 5: Why did the same scenario recur three times over 7 years without systemic prevention?
+Answer: Each event (2019, 2024, 2026) was treated in isolation. Corrective action CA-04
+        from NMR-2019-047 — a digital system to cross-link calibration status, open
+        maintenance risks, and permit issuance — was raised in 2019 but NEVER implemented
+        due to budget deferral (2019, 2020, 2021, 2022) and personnel change (2023–2025).
+        Without this system, the recurring pattern was only recognised by individuals
+        with long institutional memory (Rajiv Sharma, Anil Mehta, Suresh Kumar).
+
+───────────────────────────────────────────────────────
+4. CONTRIBUTORY FACTORS
+───────────────────────────────────────────────────────
+CF-1: Permit gas reading procedure was not followed correctly by issuer (Rajiv Sharma).
+CF-2: Open corrective actions from prior incidents (CA-04, WO-4476) were not systematically
+      tracked or escalated.
+CF-3: No automated linkage between open maintenance items and areas where hot work is
+      being requested.
+
+───────────────────────────────────────────────────────
+5. CORRECTIVE AND PREVENTIVE ACTIONS (CAPA)
+───────────────────────────────────────────────────────
+RCA-2026-007-C1 | IMMEDIATE: HX-11 Flange #7 emergency gasket replacement.
+                  Status: COMPLETED 24 January 2026 (Anil Mehta, Suresh Kumar).
+
+RCA-2026-007-C2 | Hot Work Permit procedure (HWP-PROC) revised to require BOTH portable
+                  gas reading AND nearest fixed detector reading with timestamp and tester
+                  name. No "N/A" or "area clear" without both readings documented.
+                  Status: COMPLETED 30 January 2026 (Kavita Desai, effective immediately).
+
+RCA-2026-007-C3 | STRATEGIC: Implement a digital Integrated Safety Management System (ISMS)
+                  that cross-links:
+                    (a) Calibration schedules and overdue alerts for all gas detectors
+                    (b) Open maintenance items (especially partial-close WOs)
+                    (c) Active permit issuance (permit to check for nearby open gas risks)
+                  This is CA-04 from NMR-2019-047, now 7 years overdue.
+                  Budget approved by Mohan Rao: Rs. 14 lakhs.
+                  Target: System operational by July 2026.
+                  Owner: Deepak Singh.
+
+RCA-2026-007-C4 | All-hands lessons-learned session: present the NMR-2019-047 → WO-4471 →
+                  WO-4892 pattern to all shift operators, supervisors, and permit issuers.
+                  Status: Completed 31 January 2026.
+
+RCA-2026-007-C5 | Suresh Kumar's early recognition of the pattern (acting at 15% rather
+                  than waiting for 25% LEL threshold) to be documented as best practice
+                  and shared at the lessons-learned session.
+
+───────────────────────────────────────────────────────
+6. VERIFICATION
+───────────────────────────────────────────────────────
+C1 verified by Kavita Desai — 27 January 2026.
+C2 verified by Kavita Desai — 31 January 2026.
+C3, C4, C5 — ongoing, to be verified by next quarterly review (April 2026).
+
+───────────────────────────────────────────────────────
+7. SIGNATURES
+───────────────────────────────────────────────────────
+RCA Lead        : Rajiv Sharma            Date: 04/02/2026
+HSE Manager     : Kavita Desai            Date: 04/02/2026
+Maint. Engineer : Deepak Singh            Date: 04/02/2026
+Plant Manager   : Mohan Rao              Date: 06/02/2026
+
+CROSS-REFERENCE: NMR-2019-047, WO-4471, WO-4476, WO-4892, SHL-2026-0121, SAR-2025
+═══════════════════════════════════════════════════════

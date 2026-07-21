@@ -1,0 +1,62 @@
+VINDHYA STEELWORKS PVT. LTD.
+Chandrapur Industrial Zone, Maharashtra — 442 401
+═══════════════════════════════════════════════════════
+MAINTENANCE WORK ORDER
+═══════════════════════════════════════════════════════
+
+Work Order No.  : WO-4901
+Date Issued     : 03 February 2026
+Priority        : MEDIUM
+Status          : IN PROGRESS
+Department      : Mechanical / I&E
+Location        : Bay 2
+Equipment Tag   : PM-07 (Kirloskar SPP Centrifugal Feed Pump)
+Assigned To     : Suresh Kumar (Mechanical Operator), Anil Mehta (I&E)
+Supervised By   : Rajiv Sharma
+
+───────────────────────────────────────────────────────
+1. WORK DESCRIPTION
+───────────────────────────────────────────────────────
+Planned preventive maintenance on PM-07 centrifugal feed pump — bearing replacement and
+mechanical seal inspection. PM-07 bearing vibration has been trending upward since Q3 2025
+(logged in monthly maintenance reports). Last bearing replacement: September 2023 (WO-4387).
+
+NOTE: This work order is separate from the GB-14 / WO-4892 investigation. WO-4892 actions
+(HX-11 gasket, GB-14 recalibration) have been completed as of 28 January 2026.
+
+───────────────────────────────────────────────────────
+2. PRE-WORK CHECKS
+───────────────────────────────────────────────────────
+Bay 2 hot work permit check (for bearing press work):
+  - Gas reading GB-17 (Bay 4, Zone A): 0.0% LEL ✓
+  - Gas reading portable at PM-07 location: 0.0% LEL ✓
+  - Hot Work Permit HWP-2026-031 issued by Deepak Singh at 08:00, 04 Feb 2026.
+  - Gas readings recorded on permit with timestamp (09:00) by Anil Mehta ✓
+  - Both fixed detector readings AND portable readings documented per updated procedure ✓
+  [Note: Permit procedure updated per WO-4892 corrective action 4892-04 — now requires
+   BOTH portable AND nearest fixed detector readings. Compliant with revised procedure.]
+
+───────────────────────────────────────────────────────
+3. WORK PLANNED
+───────────────────────────────────────────────────────
+- Remove PM-07 bearing housing covers.
+- Inspect and replace drive-end and non-drive-end bearings (SKF 6316 2RS).
+- Inspect mechanical seal: replace if wear exceeds 50% face thickness.
+- Check coupling alignment. Re-align if deviation >0.05mm TIR.
+- Grease lubrication points per PM-07 lubrication schedule (LS-PM07-Rev4).
+- Run-in test at 20%, 50%, 100% load. Record vibration and temperature.
+
+───────────────────────────────────────────────────────
+4. TARGET COMPLETION
+───────────────────────────────────────────────────────
+Date: 07 February 2026 (3-day planned window)
+
+───────────────────────────────────────────────────────
+5. SIGNATURES (work order initiation)
+───────────────────────────────────────────────────────
+Technician (Mech) : Suresh Kumar          Date: 03/02/2026
+Technician (I&E)  : Anil Mehta           Date: 03/02/2026
+Supervisor        : Rajiv Sharma          Date: 03/02/2026
+
+CROSS-REFERENCE: WO-4387, WO-4892 (closed), HWP-2026-031
+═══════════════════════════════════════════════════════

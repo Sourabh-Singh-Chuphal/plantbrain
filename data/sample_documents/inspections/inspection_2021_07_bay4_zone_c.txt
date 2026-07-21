@@ -1,0 +1,93 @@
+VINDHYA STEELWORKS PVT. LTD.
+Chandrapur Industrial Zone, Maharashtra — 442 401
+═══════════════════════════════════════════════════════
+SAFETY INSPECTION REPORT
+═══════════════════════════════════════════════════════
+
+Report No.      : SIR-2021-034
+Inspection Type : Periodic Safety Inspection — Bay 4, Zone C
+Date            : 16 July 2021
+Inspector       : Priya Nair, HSE Manager
+Accompanied By  : Anil Mehta (I&E Technician), Rajiv Sharma (Maintenance Supervisor)
+Next Inspection : January 2022
+
+───────────────────────────────────────────────────────
+1. SCOPE
+───────────────────────────────────────────────────────
+Periodic inspection of Bay 4, Zone C covering fixed gas detection system, hot work
+permit procedures, and general housekeeping. Inspection triggered by 18-month post-incident
+review schedule following NMR-2019-047 (March 2019 near-miss involving GB-14).
+
+───────────────────────────────────────────────────────
+2. FIXED GAS DETECTION — GB-14
+───────────────────────────────────────────────────────
+Equipment Tag   : GB-14 (Draeger Polytron 2 XP, S/N: 7729-4412)
+Location        : Bay 4, Zone C, Elevation 3.2m
+Installation    : March 2017
+
+2.1 Calibration Records Review
+    Last calibration date: 17 March 2021 (WO-4198, Anil Mehta)
+    Due date: September 2021 ✓ (within schedule)
+    Pre-calibration reading: +0.8% LEL drift (ACCEPTABLE — within ±1% tolerance)
+    Span calibration result: 50.2% LEL at 50% reference. PASS.
+
+2.2 Physical Inspection
+    Housing: No damage, IP65 integrity intact.
+    Cable gland: Secure, no corrosion.
+    Display: Functioning. Current reading: 0.0% LEL.
+    Alarm horn: Tested — audible at 25 metres. PASS.
+    Sensor age: 4 years 4 months (installation March 2017). Sensor element last
+    replaced: 14 February 2019 (WO-3847). Age: 29 months.
+    ⚠ OBSERVATION: Sensor element is 5 months past Draeger's 24-month replacement
+    recommendation. Work order recommended (see Action Items).
+
+2.3 Alarm Escalation Procedure
+    Procedure SHP-04 (Shift Handover and Alarm Escalation) reviewed.
+    Shift operators interviewed: Suresh Kumar, Vijay Patil.
+    Both demonstrated correct knowledge of 15% LEL notification threshold and 25%
+    LEL immediate escalation + hot work suspension requirement.
+    [Note: Following NMR-2019-047, CA-03 was implemented — refresher training for
+    Suresh Kumar completed March 2019. Records sighted and satisfactory.]
+
+───────────────────────────────────────────────────────
+3. HOT WORK PERMIT SYSTEM — BAY 4
+───────────────────────────────────────────────────────
+3.1 Procedure Review
+    Current procedure: HWP-PROC-2019-Rev2 (updated post NMR-2019-047).
+    Key update from 2019 revision: Requires mandatory gas reading from nearest fixed
+    detector (GB-14 for Bay 4 work) within 30 minutes of permit issuance.
+    This requirement (CA-02 from NMR-2019-047) is correctly incorporated. ✓
+
+3.2 Permit Records Audit (last 6 months: Jan–Jul 2021)
+    12 hot work permits reviewed for Bay 4.
+    Gas reading field compliance: 10/12 permits had GB-14 reading recorded.
+    2 permits (HWP-2021-044, HWP-2021-067): Gas reading field marked "0% — area clear"
+    without time recorded. Non-compliant with procedure (time of reading must be recorded).
+    ⚠ FINDING: Partial non-compliance — 2/12 permits (17%) missing reading timestamp.
+
+───────────────────────────────────────────────────────
+4. CORRECTIVE ACTIONS
+───────────────────────────────────────────────────────
+SIR-2021-034-01 | Raise work order for GB-14 sensor element replacement (29 months old,
+                  Draeger recommends 24 months). Assign: Anil Mehta. Due: 31 Aug 2021.
+SIR-2021-034-02 | Issue reminder to all Permit Issuing Authorities (Rajiv Sharma, Deepak
+                  Singh, Mohan Rao) that gas reading time must be recorded on permit.
+                  Due: 22 July 2021.
+SIR-2021-034-03 | CA-04 from NMR-2019-047 (digital calibration / permit tracking system):
+                  Status — not yet implemented. Follow up with management. Due: Sept 2021.
+
+───────────────────────────────────────────────────────
+5. OVERALL ASSESSMENT
+───────────────────────────────────────────────────────
+Bay 4, Zone C gas detection and hot work system: SATISFACTORY WITH MINOR FINDINGS.
+No immediate safety concern. Corrective actions tracked above must be completed on schedule.
+
+───────────────────────────────────────────────────────
+6. SIGNATURES
+───────────────────────────────────────────────────────
+Inspector       : Priya Nair             Date: 16/07/2021
+Supervisor      : Rajiv Sharma           Date: 17/07/2021
+Plant Manager   : Mohan Rao              Date: 19/07/2021
+
+CROSS-REFERENCE: NMR-2019-047, WO-3847, WO-4198, SHP-04
+═══════════════════════════════════════════════════════

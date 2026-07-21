@@ -1,0 +1,99 @@
+VINDHYA STEELWORKS PVT. LTD.
+Chandrapur Industrial Zone, Maharashtra — 442 401
+═══════════════════════════════════════════════════════
+ANNUAL SAFETY AUDIT REPORT — 2025
+═══════════════════════════════════════════════════════
+
+Audit Reference : SAR-2025-Annual
+Audit Period    : January 2025 — December 2025
+Lead Auditor    : Kavita Desai, HSE Manager (appointed Dec 2024, replacing Priya Nair)
+Audit Team      : Deepak Singh (Maint. Engg), Ravi Deshmukh (Operations Lead)
+Plant Manager   : Mohan Rao
+Date Issued     : 19 December 2025
+
+───────────────────────────────────────────────────────
+EXECUTIVE SUMMARY
+───────────────────────────────────────────────────────
+2025 represents Vindhya Steelworks' safest year in the past 5 years by number of
+recordable incidents. Zero Lost Time Injuries (LTIs). Two Near-Miss events recorded
+(NMR-2025-003, NMR-2025-018 — both unrelated to gas detection).
+
+Despite overall improvement, this audit identified three legacy corrective actions
+from prior incidents that remain OPEN and OVERDUE:
+
+(A) CA-04 / NMR-2019-047: Digital calibration tracking and permit cross-check system.
+    Raised: March 2019. Status: OPEN (6+ years). Multiple follow-up deadlines missed.
+    Risk: Manual calibration records create risk of sensor degradation going undetected.
+
+(B) SIR-2021-034-03: Follow up on CA-04 from NMR-2019-047. Status: OPEN.
+
+(C) WO-4476 (Aug 2024): HX-11 Flange #7 gasket replacement.
+    Verbal instruction given to Maintenance team. No formal Work Order raised.
+    Status: OPEN — gasket not yet replaced as of this audit date.
+    Risk: Recurring seepage possible if thermal cycling continues.
+
+───────────────────────────────────────────────────────
+SECTION 1 — GAS DETECTION SYSTEM
+───────────────────────────────────────────────────────
+1.1 Fixed Detector Audit
+
+Detector Tag | Location   | Last Cal Date  | Status
+─────────────────────────────────────────────────────────
+GB-14        | Bay 4, C   | Feb 2025       | ✓ Calibrated (WO-4762)
+GB-17        | Bay 4, A   | Mar 2025       | ✓ Calibrated
+GB-22        | Bay 6      | Apr 2025       | ✓ Calibrated
+GB-31        | Compressor | Jan 2025       | ✓ Calibrated
+GB-35        | Tank Farm  | Jun 2025       | ✓ Calibrated
+
+1.2 Observations
+    GB-14 (Bay 4, Zone C) calibration is current. Sensor element replaced Nov 2024
+    (WO-4473). No anomalous readings logged in 2025. ✓
+
+    Recommendation: GB-14 requires fresh calibration by August 2025 (6-month cycle).
+    Schedule before any planned hot work in Bay 4 in H2 2025.
+
+───────────────────────────────────────────────────────
+SECTION 2 — HOT WORK PERMIT COMPLIANCE
+───────────────────────────────────────────────────────
+2.1 Permit Records Audit (Jan–Nov 2025, 24 permits sampled)
+    Permits with gas reading time recorded: 22/24 (92%). Improvement from 83% in 2021.
+    Permits with GB-14 reading recorded for Bay 4 work: 8/8 (100%). ✓
+    1 permit (HWP-2025-104): Gas reading field recorded but no tester's name.
+    1 permit (HWP-2025-187): Reading recorded 47 minutes before permit issuance (>30 min).
+
+2.2 Actions
+    2025-A1: Reminder to all PIAs on gas reading timing and tester identification.
+              Due: January 2026. Assigned: Kavita Desai.
+
+───────────────────────────────────────────────────────
+SECTION 3 — EQUIPMENT MAINTENANCE COMPLIANCE
+───────────────────────────────────────────────────────
+3.1 Outstanding maintenance items:
+    - HX-11 Flange #7 gasket replacement (from WO-4476, Aug 2024): NOT DONE. RISK.
+    - PM-07 bearing replacement: Scheduled Q1 2026. On track.
+    - CV-22 actuator service: Completed Nov 2025. ✓
+
+───────────────────────────────────────────────────────
+SECTION 4 — TRAINING COMPLIANCE
+───────────────────────────────────────────────────────
+All Bay 4 operators (Suresh Kumar, Vijay Patil, Ravi Deshmukh) hold current Gas Hazard
+Response certification (renewed 2024). ✓
+Rajiv Sharma: PTW Issuer competency certificate renewed October 2025. ✓
+Anil Mehta: Gas Detector Calibration certification — due for renewal April 2026.
+
+───────────────────────────────────────────────────────
+SECTION 5 — RECOMMENDATIONS FOR 2026
+───────────────────────────────────────────────────────
+5.1 PRIORITY 1: HX-11 Flange #7 gasket replacement. Schedule in Q1 2026 shutdown window.
+5.2 PRIORITY 2: Finally implement CA-04 (NMR-2019-047) — digital calibration tracking.
+    Consider software solutions — this is a 7-year-old open action.
+5.3 Conduct GB-14 calibration and inspection at start of any Bay 4 hot work campaign.
+
+───────────────────────────────────────────────────────
+SIGNATURES
+───────────────────────────────────────────────────────
+HSE Manager     : Kavita Desai           Date: 19/12/2025
+Plant Manager   : Mohan Rao              Date: 22/12/2025
+
+CROSS-REFERENCE: NMR-2019-047, WO-4471, WO-4476, SIR-2021-034
+═══════════════════════════════════════════════════════

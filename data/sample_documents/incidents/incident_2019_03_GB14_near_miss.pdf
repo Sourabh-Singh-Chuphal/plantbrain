@@ -1,0 +1,470 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+
+2 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Courier /Encoding /WinAnsiEncoding >>
+endobj
+
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Courier-Bold /Encoding /WinAnsiEncoding >>
+endobj
+
+5 0 obj
+<< /Length 7463 >>
+stream
+
+0.071 0.071 0.071 rg
+0 804 595 38 re f
+0 0 0 rg
+0.000 0.800 0.627 rg
+BT
+/FHelvB 9 Tf
+50 826 Td
+(VINDHYA STEELWORKS PVT. LTD.) Tj
+ET
+0 0 0 rg
+0.549 0.549 0.549 rg
+BT
+/FHelv 7 Tf
+50 815 Td
+(Chandrapur Industrial Zone, Maharashtra  442 401) Tj
+ET
+0 0 0 rg
+0.000 0.706 0.549 rg
+420 808 130 28 re f
+0 0 0 rg
+1.000 1.000 1.000 rg
+BT
+/FHelvB 8 Tf
+430 825 Td
+(INCIDENT REPORT) Tj
+ET
+0 0 0 rg
+0.000 0.706 0.549 RG
+1.0 w
+50 800 m 545 800 l S
+0 0 0 RG
+0.314 0.314 0.314 RG
+0.5 w
+50 48 m 545 48 l S
+0 0 0 RG
+0.549 0.549 0.549 rg
+BT
+/FHelv 6 Tf
+50 35 Td
+(PlantBrain Demo Corpus  |  Synthetic Document ? All persons and events are fictional  |  19 Jul 2026) Tj
+ET
+0 0 0 rg
+0.961 0.651 0.137 RG
+0.6 w
+50 786 m 545 786 l S
+0 0 0 RG
+0.784 0.510 0.000 rg
+BT
+/FHelvB 8 Tf
+50 774 Td
+(NEAR-MISS INCIDENT REPORT) Tj
+ET
+0 0 0 rg
+0.961 0.651 0.137 RG
+0.6 w
+50 763 m 545 763 l S
+0 0 0 RG
+0.118 0.118 0.118 rg
+BT
+/FCour 8 Tf
+50 749 Td
+(Report No.      : NMR-2019-047) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 8 Tf
+50 737 Td
+(Date of Incident: 14 March 2019) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 8 Tf
+50 725 Td
+(Time of Incident: 14:32 IST) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 8 Tf
+50 713 Td
+(Location        : Bay 4, Zone C ? Furnace Pre-heat Section) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 8 Tf
+50 701 Td
+(Equipment Tag   : GB-14 \(Draeger Polytron 2 XP Combustible Gas Detector\)) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 8 Tf
+50 689 Td
+(Report Prepared : Priya Nair, HSE Manager) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 8 Tf
+50 677 Td
+(Reviewed By     : Mohan Rao, Plant Manager) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 8 Tf
+50 665 Td
+(Date Submitted  : 15 March 2019) Tj
+ET
+0 0 0 rg
+0.961 0.651 0.137 RG
+0.6 w
+50 650 m 545 650 l S
+0 0 0 RG
+0.784 0.510 0.000 rg
+BT
+/FHelvB 8 Tf
+50 638 Td
+(1. INCIDENT DESCRIPTION) Tj
+ET
+0 0 0 rg
+0.961 0.651 0.137 RG
+0.6 w
+50 627 m 545 627 l S
+0 0 0 RG
+0.118 0.118 0.118 rg
+BT
+/FCour 8 Tf
+50 618 Td
+(At 14:32 on 14 March 2019, equipment tag GB-14 \(combustible gas detector installed at Bay 4,) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 8 Tf
+50 606 Td
+(Zone C, at elevation 3.2m\) registered a sustained alarm reading of 27% LEL \(Lower Explosive) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 8 Tf
+50 594 Td
+(Limit\). The reading had been gradually rising from 11% LEL since 12:15 IST but was not) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 8 Tf
+50 582 Td
+(escalated by the shift operator \(Suresh Kumar, Operator-II\) until it crossed the 25% LEL) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 8 Tf
+50 570 Td
+(threshold trigger.) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 8 Tf
+50 553 Td
+(At the time of the alarm, a hot work permit \(Permit No. HWP-2019-112\) had been issued for) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 8 Tf
+50 541 Td
+(gas cutting operations being carried out by contractor technician Balraj Tiwari \(Sarwa) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 8 Tf
+50 529 Td
+(Contractors Pvt. Ltd.\) approximately 8 metres from the GB-14 sensor location. The permit had) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 8 Tf
+50 517 Td
+(been authorised by Rajiv Sharma \(Maintenance Supervisor\) at 13:45 IST.) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 8 Tf
+50 500 Td
+(On receiving the alarm escalation, HSE Officer Priya Nair immediately issued a STOP WORK) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 8 Tf
+50 488 Td
+(order. All hot work was halted. The area was ventilated using forced-draft blowers for 45) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 8 Tf
+50 476 Td
+(minutes. A second gas reading at 15:20 showed 4% LEL. Normal operations resumed at 16:10.) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 8 Tf
+50 459 Td
+(No fire, explosion, or injury occurred. This event is classified as a NEAR-MISS ? Category 2) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 8 Tf
+50 447 Td
+(\(High Potential\).) Tj
+ET
+0 0 0 rg
+0.961 0.651 0.137 RG
+0.6 w
+50 432 m 545 432 l S
+0 0 0 RG
+0.784 0.510 0.000 rg
+BT
+/FHelvB 8 Tf
+50 420 Td
+(2. IMMEDIATE CAUSES) Tj
+ET
+0 0 0 rg
+0.961 0.651 0.137 RG
+0.6 w
+50 409 m 545 409 l S
+0 0 0 RG
+0.118 0.118 0.118 rg
+BT
+/FCour 8 Tf
+50 400 Td
+(\(a\) GB-14 sensor had not been calibrated since 22 September 2018 \(last calibration record:) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 7.5 Tf
+50 388 Td
+(    Work Order WO-3591, Technician: Anil Mehta\). The manufacturer \(Draeger\) recommends) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 7.5 Tf
+50 376 Td
+(    6-monthly calibration. At the time of this incident the sensor was 174 days overdue.) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 8 Tf
+50 359 Td
+(\(b\) Operator Suresh Kumar did not escalate the rising gas reading \(11%?27% LEL over 137) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 7.5 Tf
+50 347 Td
+(    minutes\) per the Shift Handover Procedure SHP-04 which requires supervisor notification) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 7.5 Tf
+50 335 Td
+(    at 15% LEL.) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 8 Tf
+50 318 Td
+(\(c\) Hot Work Permit HWP-2019-112 was issued without a pre-work gas reading check from) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 7.5 Tf
+50 306 Td
+(    GB-14, contrary to OISD-STD-105 Clause 4.3.1 which mandates a fresh gas reading within) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 7.5 Tf
+50 294 Td
+(    30 minutes of hot work commencement.) Tj
+ET
+0 0 0 rg
+0.961 0.651 0.137 RG
+0.6 w
+50 279 m 545 279 l S
+0 0 0 RG
+0.784 0.510 0.000 rg
+BT
+/FHelvB 8 Tf
+50 267 Td
+(3. ROOT CAUSES) Tj
+ET
+0 0 0 rg
+0.961 0.651 0.137 RG
+0.6 w
+50 256 m 545 256 l S
+0 0 0 RG
+0.118 0.118 0.118 rg
+BT
+/FCour 8 Tf
+50 247 Td
+(\(a\) No automated system exists to block hot work permit issuance when nearby gas sensor) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 7.5 Tf
+50 235 Td
+(    readings exceed 10% LEL. Permits are currently issued on paper without cross-checking) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 7.5 Tf
+50 223 Td
+(    live sensor data.) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 8 Tf
+50 206 Td
+(\(b\) Calibration tracking is manual \(maintained in a paper logbook in the Maintenance) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 7.5 Tf
+50 194 Td
+(    Supervisor's office\). No digital reminder or work order auto-generation exists when) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 7.5 Tf
+50 182 Td
+(    calibration is overdue.) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 8 Tf
+50 165 Td
+(\(c\) Operator training records show Suresh Kumar last attended gas hazard escalation training) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 7.5 Tf
+50 153 Td
+(    in February 2017 ? over 2 years prior to this incident.) Tj
+ET
+0 0 0 rg
+0.961 0.651 0.137 RG
+0.6 w
+50 138 m 545 138 l S
+0 0 0 RG
+0.784 0.510 0.000 rg
+BT
+/FHelvB 8 Tf
+50 126 Td
+(4. CORRECTIVE ACTIONS ISSUED) Tj
+ET
+0 0 0 rg
+0.961 0.651 0.137 RG
+0.6 w
+50 115 m 545 115 l S
+0 0 0 RG
+0.118 0.118 0.118 rg
+BT
+/FCour 7.5 Tf
+50 106 Td
+(CA-01 | GB-14 to be calibrated within 72 hours. \(Assigned: Anil Mehta. Due: 17 Mar 2019\)) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 7.5 Tf
+50 94 Td
+(CA-02 | All hot work permits in Bay 4 to require a live gas reading sign-off from the nearest) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 7.5 Tf
+50 82 Td
+(       sensor \(GB-14 or GB-17\) within 30 minutes of permit issuance. \(Immediate\)) Tj
+ET
+0 0 0 rg
+0.118 0.118 0.118 rg
+BT
+/FCour 7.5 Tf
+50 70 Td
+(CA-03 | Suresh Kumar to attend refresher training ? Gas Hazard Response, Module 3.) Tj
+ET
+0 0 0 rg
+endstream
+endobj
+
+6 0 obj
+<< /Type /Page /Parent 8 0 R /MediaBox [0 0 595 842] /Contents 5 0 R /Resources << /Font << /FHelv 1 0 R /FHelvB 2 0 R /FCour 3 0 R /FCourB 4 0 R >> >> >>
+endobj
+
+7 0 obj
+<< /Type /Pages /Kids [6 0 R] /Count 1 >>
+endobj
+
+8 0 obj
+<< /Type /Catalog /Pages 7 0 R >>
+endobj
+
+xref
+0 9
+0000000000 65535 f 
+0000000009 00000 n 
+0000000107 00000 n 
+0000000210 00000 n 
+0000000306 00000 n 
+0000000407 00000 n 
+0000007924 00000 n 
+0000008095 00000 n 
+0000008153 00000 n 
+trailer
+<< /Size 9 /Root 8 0 R >>
+startxref
+8203
+%%EOF
