@@ -2,7 +2,7 @@
 
 **ET AI Hackathon 2026 — Problem Statement 8 of 8: AI for Industrial Knowledge Intelligence**
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-sentinel--eight.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sentinel-eight.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-plantbrain--eight.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://plantbrain-eight.vercel.app/)
 
 [![FastAPI](https://img.shields.io/badge/Backend-FastAPI-009688?style=flat-square&logo=fastapi)](https://fastapi.tiangolo.com/)
 [![React](https://img.shields.io/badge/Frontend-React%20%7C%20TypeScript-61DAFB?style=flat-square&logo=react)](https://reactjs.org/)
@@ -15,7 +15,7 @@
 
 ## 🌐 Official Production Deployment
 
-> 🔗 **Live Application URL**: [https://sentinel-eight.vercel.app/](https://sentinel-eight.vercel.app/)
+> 🔗 **Live Application URL**: [https://plantbrain-eight.vercel.app/](https://plantbrain-eight.vercel.app/)
 
 ---
 

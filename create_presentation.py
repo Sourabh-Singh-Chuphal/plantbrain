@@ -675,7 +675,7 @@ def build_presentation(output_path):
     cp1.font.color.rgb = CYAN
     
     cp2 = ctf.add_paragraph()
-    cp2.text = "• Official Live Application: https://sentinel-eight.vercel.app/"
+    cp2.text = "• Official Live Application: https://plantbrain-eight.vercel.app/"
     cp2.font.size = Pt(13)
     cp2.font.bold = True
     cp2.font.color.rgb = EMERALD
