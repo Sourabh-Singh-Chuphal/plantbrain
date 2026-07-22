@@ -32,7 +32,7 @@ def build_presentation(output_path):
         bg.line.fill.background()
         return bg
 
-    def add_header(slide, title_text, category_text="PLANTBRAIN | ET AI HACKATHON 2026"):
+    def add_header(slide, title_text, category_text="SENTINEL | ET AI HACKATHON 2026"):
         # Category Tag
         cat_box = slide.shapes.add_textbox(Inches(0.8), Inches(0.4), Inches(11.7), Inches(0.4))
         tf = cat_box.text_frame
@@ -84,7 +84,7 @@ def build_presentation(output_path):
     tf.word_wrap = True
     
     p = tf.paragraphs[0]
-    p.text = "PlantBrain"
+    p.text = "Sentinel"
     p.font.size = Pt(54)
     p.font.bold = True
     p.font.color.rgb = WHITE
@@ -208,11 +208,11 @@ def build_presentation(output_path):
 
 
     # -------------------------------------------------------------
-    # SLIDE 3: THE SOLUTION - PLANTBRAIN
+    # SLIDE 3: THE SOLUTION - SENTINEL
     # -------------------------------------------------------------
     s3 = prs.slides.add_slide(blank_slide_layout)
     add_background(s3)
-    add_header(s3, "Introducing PlantBrain — Unified Asset & Operations Brain")
+    add_header(s3, "Introducing Sentinel — Unified Asset & Operations Brain")
 
     # Banner top
     add_card(s3, Inches(0.8), Inches(1.5), Inches(11.7), Inches(1.1), bg_color=CARD_BG, border_color=CYAN)
@@ -345,14 +345,14 @@ def build_presentation(output_path):
         p_pt.font.color.rgb = WHITE
         p_pt.space_before = Pt(14)
 
-    # PlantBrain GraphRAG
+    # Sentinel GraphRAG
     add_card(s5, Inches(6.9), top_pos, box_w, box_h, bg_color=CARD_BG, border_color=EMERALD)
     tb_pb = s5.shapes.add_textbox(Inches(7.1), top_pos + Inches(0.2), box_w - Inches(0.4), box_h - Inches(0.4))
     tf_pb = tb_pb.text_frame
     tf_pb.word_wrap = True
     
     p = tf_pb.paragraphs[0]
-    p.text = "PLANTBRAIN GRAPHRAG (Our Solution)"
+    p.text = "SENTINEL GRAPHRAG (Our Solution)"
     p.font.size = Pt(14)
     p.font.bold = True
     p.font.color.rgb = EMERALD
@@ -376,7 +376,7 @@ def build_presentation(output_path):
     # -------------------------------------------------------------
     s6 = prs.slides.add_slide(blank_slide_layout)
     add_background(s6)
-    add_header(s6, "PlantBrain Core User Experience & Feature Suite")
+    add_header(s6, "Sentinel Core User Experience & Feature Suite")
 
     f_w = Inches(3.7)
     f_h = Inches(2.4)
@@ -447,20 +447,20 @@ def build_presentation(output_path):
         pi.font.color.rgb = WHITE
         pi.space_before = Pt(12)
 
-    # Right box: PlantBrain Discovery
+    # Right box: Sentinel Discovery
     add_card(s7, Inches(6.9), Inches(1.6), Inches(5.6), Inches(5.1), bg_color=CARD_BG, border_color=EMERALD)
     stb2 = s7.shapes.add_textbox(Inches(7.1), Inches(1.8), Inches(5.2), Inches(4.7))
     stf2 = stb2.text_frame
     stf2.word_wrap = True
     
     p = stf2.paragraphs[0]
-    p.text = "PLANTBRAIN PROACTIVE DISCOVERY"
+    p.text = "SENTINEL PROACTIVE DISCOVERY"
     p.font.size = Pt(14)
     p.font.bold = True
     p.font.color.rgb = EMERALD
     
     pb_items = [
-        "1. Instant Graph Linking: PlantBrain automatically connects WO-4901 (2026) with Incident Report INC-2019-03 via node GB-14.",
+        "1. Instant Graph Linking: Sentinel automatically connects WO-4901 (2026) with Incident Report INC-2019-03 via node GB-14.",
         "2. Proactive Alert: Dashboard warns: '⚠️ GB-14 appeared in a 2019 near-miss under similar thermal load conditions.'",
         "3. Actionable RCA: Copilot advises exact clearance adjustments from the 2019 OEM bulletin before bearing seizure occurs.",
         "4. Saved Impact: Prevents $450,000 in unplanned furnace shutdown costs."
@@ -645,7 +645,7 @@ def build_presentation(output_path):
     tf.word_wrap = True
     
     p = tf.paragraphs[0]
-    p.text = "PlantBrain"
+    p.text = "Sentinel"
     p.font.size = Pt(50)
     p.font.bold = True
     p.font.color.rgb = WHITE
@@ -675,14 +675,14 @@ def build_presentation(output_path):
     cp1.font.color.rgb = CYAN
     
     cp2 = ctf.add_paragraph()
-    cp2.text = "• Official Live Application: https://plantbrain-eight.vercel.app/"
+    cp2.text = "• Official Live Application: https://sentinel-eight.vercel.app/"
     cp2.font.size = Pt(13)
     cp2.font.bold = True
     cp2.font.color.rgb = EMERALD
     cp2.space_before = Pt(6)
     
     cp3 = ctf.add_paragraph()
-    cp3.text = "• GitHub: Sourabh-Singh-Chuphal/plantbrain  |  ET AI Hackathon 2026 — Problem Statement 8"
+    cp3.text = "• GitHub: Sourabh-Singh-Chuphal/sentinel  |  ET AI Hackathon 2026 — Problem Statement 8"
     cp3.font.size = Pt(12)
     cp3.font.color.rgb = WHITE
     cp3.space_before = Pt(4)
@@ -692,5 +692,5 @@ def build_presentation(output_path):
 
 if __name__ == "__main__":
     out_dir = os.path.dirname(os.path.abspath(__file__))
-    out_path = os.path.join(out_dir, "PlantBrain_Presentation.pptx")
+    out_path = os.path.join(out_dir, "Sentinel_Presentation.pptx")
     build_presentation(out_path)

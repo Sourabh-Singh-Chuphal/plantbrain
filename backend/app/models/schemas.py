@@ -1,5 +1,5 @@
 """
-PlantBrain — Pydantic Schemas
+Sentinel — Pydantic Schemas
 All request/response models used across the API.
 """
 from __future__ import annotations

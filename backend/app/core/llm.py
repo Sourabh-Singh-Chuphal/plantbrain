@@ -1,5 +1,5 @@
 """
-PlantBrain — Google Gemini LLM Client Wrapper
+Sentinel — Google Gemini LLM Client Wrapper
 Uses the new google-genai SDK (google.genai).
 """
 from __future__ import annotations
@@ -21,7 +21,7 @@ _DEFAULT_MODEL = "gemini-2.0-flash"
 
 def call_claude(
     prompt: str,
-    system: str = "You are PlantBrain, an expert industrial AI assistant.",
+    system: str = "You are Sentinel, an expert industrial AI assistant.",
     model: str = _DEFAULT_MODEL,
     max_tokens: int = 2048,
     temperature: float = 0.0,

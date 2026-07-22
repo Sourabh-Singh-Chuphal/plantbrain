@@ -1,5 +1,5 @@
 """
-PlantBrain — Admin Router
+Sentinel — Admin Router
 POST /api/admin/seed — trigger corpus seeding
 GET  /api/admin/cache/clear — clear copilot response cache
 """

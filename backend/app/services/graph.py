@@ -1,5 +1,5 @@
 """
-PlantBrain — Knowledge Graph Service (Neo4j)
+Sentinel — Knowledge Graph Service (Neo4j)
 Handles document/entity nodes and cross-document pattern detection.
 """
 from __future__ import annotations

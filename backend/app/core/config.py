@@ -1,5 +1,5 @@
 """
-PlantBrain — Core Configuration
+Sentinel — Core Configuration
 Loads all environment variables via pydantic-settings.
 """
 from functools import lru_cache
@@ -24,7 +24,7 @@ class Settings(BaseSettings):
 
     # ChromaDB
     chroma_persist_dir: str = "./chroma_data"
-    chroma_collection_name: str = "plantbrain_docs"
+    chroma_collection_name: str = "sentinel_docs"
 
     # CORS
     frontend_origin: str = "http://localhost:5173"

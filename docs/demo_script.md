@@ -1,4 +1,4 @@
-# PlantBrain — 90-Second Hackathon Demo Video Script
+# Sentinel — 90-Second Hackathon Demo Video Script
 
 **Target Duration:** 90 Seconds  
 **Format:** Shot List & Voiceover Script (Ready for Screen Recording & Video Editing)  
@@ -18,17 +18,17 @@
 
 ---
 
-### Beat 2: Live Ingestion & Intelligence Extraction (0:15 – 0:40)
-- **Visual:** Screen recording of the **PlantBrain Dashboard**. Click **"Upload Document"**. Drag and drop `work_order_2026_GB14_overhaul.txt` (or PDF). Watch the 4-step real-time ingestion stepper animate in real time (Text Extraction -> Chunking -> Hybrid Entity Extraction -> Graph Linkage).
+## Beat 2: Live Ingestion & Intelligence Extraction (0:15 – 0:40)
+- **Visual:** Screen recording of the **Sentinel Dashboard**. Click **"Upload Document"**. Drag and drop `work_order_2026_GB14_overhaul.txt` (or PDF). Watch the 4-step real-time ingestion stepper animate in real time (Text Extraction -> Chunking -> Hybrid Entity Extraction -> Graph Linkage).
 - **On-Screen Text:**  
   `Multimodal Ingestion Pipeline`  
   `OCR + Entity Recognition + Hybrid Vector & Graph Indexing`
 - **Voiceover (VO):**  
-  *"Enter PlantBrain — the Unified Industrial Asset & Operations Intelligence Platform. We ingest complex PDFs, work orders, OEM manuals, and regulatory filings in seconds. As documents drop in, our hybrid pipeline automatically parses text, extracts equipment tags like GB-14, and links them directly into a living Neo4j knowledge graph."*
+  *"Enter Sentinel — the Unified Industrial Asset & Operations Intelligence Platform. We ingest complex PDFs, work orders, OEM manuals, and regulatory filings in seconds. As documents drop in, our hybrid pipeline automatically parses text, extracts equipment tags like GB-14, and links them directly into a living Neo4j knowledge graph."*
 
 ---
 
-### Beat 3: Expert Copilot & Cross-Document Graph Reasoning (0:40 – 1:05)
+## Beat 3: Expert Copilot & Cross-Document Graph Reasoning (0:40 – 1:05)
 - **Visual:** Navigate to **Expert Copilot**. Click pre-warmed sample query:  
   `"What is the recurring issue with Gas Blower GB-14 during hot work permits?"`  
   Show AI response generating with precise citations (`[incident_2019_03_GB14_near_miss.txt, Page 1]`, `[work_order_wo4471_2026.txt]`). Hover/click citation to highlight source chunk. Click **View Node Timeline** for GB-14 to show timeline from 2019 to 2026.
@@ -36,27 +36,27 @@
   `Cross-Document Graph RAG`  
   `Zero Hallucination with Verifiable Source Citations`
 - **Voiceover (VO):**  
-  *"With Expert Copilot, engineers ask natural language questions. PlantBrain doesn’t just perform vector search; it synthesizes cross-document patterns. Here, it correlates a 2019 near-miss incident with a 2026 overhaul order—surfacing a 7-year recurring vibration pattern under high-temperature permits before a costly outage occurs."*
+  *"With Expert Copilot, engineers ask natural language questions. Sentinel doesn’t just perform vector search; it synthesizes cross-document patterns. Here, it correlates a 2019 near-miss incident with a 2026 overhaul order—surfacing a 7-year recurring vibration pattern under high-temperature permits before a costly outage occurs."*
 
 ---
 
-### Beat 4: Automated Compliance & Gap Analysis (1:05 – 1:20)
+## Beat 4: Automated Compliance & Gap Analysis (1:05 – 1:20)
 - **Visual:** Switch to **Compliance Monitoring**. Show 10 OISD / Factory Act rule cards. Click **"Run Compliance Check"** on *OISD Standard 105 (Hot Work)* vs *Plant Safety Procedure SP-04*. Highlight a flagged **"FAILED"** gap badge with exact clause discrepancy.
 - **On-Screen Text:**  
   `Automated Regulatory Gap Analysis`  
   `OISD & Factory Act Compliance Audit in 1-Click`
 - **Voiceover (VO):**  
-  *"Compliance teams no longer audit manually. PlantBrain automatically checks internal operating procedures against regulatory clauses—instantly flagging gaps where permit isolation guidelines fall short of updated OISD standards."*
+  *"Compliance teams no longer audit manually. Sentinel automatically checks internal operating procedures against regulatory clauses—instantly flagging gaps where permit isolation guidelines fall short of updated OISD standards."*
 
 ---
 
-### Beat 5: Dashboard Impact & Call to Action (1:20 – 1:30)
-- **Visual:** Return to main **PlantBrain Bento Dashboard**. Smooth zoom over key stats: `12,405 Documents Indexed`, `8,291 Graph Entities`, `3 Proactive Alerts Active`. Fade to closing screen with logo and URL.
+## Beat 5: Dashboard Impact & Call to Action (1:20 – 1:30)
+- **Visual:** Return to main **Sentinel Bento Dashboard**. Smooth zoom over key stats: `12,405 Documents Indexed`, `8,291 Graph Entities`, `3 Proactive Alerts Active`. Fade to closing screen with logo and URL.
 - **On-Screen Text:**  
-  `PlantBrain: Turning Silent Data into Asset Intelligence`  
+  `Sentinel: Turning Silent Data into Asset Intelligence`  
   `ET AI Hackathon 2026 — Problem Statement 8`
 - **Voiceover (VO):**  
-  *"PlantBrain transforms silent paper trails into proactive asset intelligence. Zero manual tagging, total operational compliance, and instant institutional memory. PlantBrain—the brain your plant was missing."*
+  *"Sentinel transforms silent paper trails into proactive asset intelligence. Zero manual tagging, total operational compliance, and instant institutional memory. Sentinel—the brain your plant was missing."*
 
 ---
 

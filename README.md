@@ -1,29 +1,29 @@
-# ⚙️ PlantBrain — Unified Asset & Operations Knowledge Intelligence Platform
+# ⚙️ Sentinel — Unified Asset & Operations Knowledge Intelligence Platform
 
 **ET AI Hackathon 2026 — Problem Statement 8 of 8: AI for Industrial Knowledge Intelligence**
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-plantbrain--eight.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://plantbrain-eight.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-sentinel--eight.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sentinel-eight.vercel.app/)
 
 [![FastAPI](https://img.shields.io/badge/Backend-FastAPI-009688?style=flat-square&logo=fastapi)](https://fastapi.tiangolo.com/)
 [![React](https://img.shields.io/badge/Frontend-React%20%7C%20TypeScript-61DAFB?style=flat-square&logo=react)](https://reactjs.org/)
 [![Neo4j](https://img.shields.io/badge/GraphDB-Neo4j-018bff?style=flat-square&logo=neo4j)](https://neo4j.com/)
 [![ChromaDB](https://img.shields.io/badge/VectorDB-ChromaDB-FF6F61?style=flat-square)](https://www.trychroma.com/)
 [![TailwindCSS](https://img.shields.io/badge/Styling-Tailwind%20CSS-38BDF8?style=flat-square&logo=tailwindcss)](https://tailwindcss.com/)
-[![Presentation](https://img.shields.io/badge/Deck-PlantBrain__Presentation.pptx-10B981?style=flat-square)](./PlantBrain_Presentation.pptx)
+[![Presentation](https://img.shields.io/badge/Deck-Sentinel__Presentation.pptx-10B981?style=flat-square)](./Sentinel_Presentation.pptx)
 
 ---
 
 ## 🌐 Official Production Deployment
 
-> 🔗 **Live Application URL**: [https://plantbrain-eight.vercel.app/](https://plantbrain-eight.vercel.app/)
+> 🔗 **Live Application URL**: [https://sentinel-eight.vercel.app/](https://sentinel-eight.vercel.app/)
 
 ---
 
 ## 📌 Executive Summary
 
-**PlantBrain** is a single knowledge intelligence layer that connects fragmented, multi-system plant documentation (PDFs, scanned inspection reports, work orders, P&IDs, OEM manuals, regulatory filings) into a living, queryable **Knowledge Graph**. 
+**Sentinel** is a single knowledge intelligence layer that connects fragmented, multi-system plant documentation (PDFs, scanned inspection reports, work orders, P&IDs, OEM manuals, regulatory filings) into a living, queryable **Knowledge Graph**. 
 
-By pairing **Graph-Augmented Generation (GraphRAG)** with a multimodal ingestion pipeline, PlantBrain empowers engineers and field technicians to surface zero-hallucination answers, cross-document failure patterns, and instant regulatory gap audits in seconds.
+By pairing **Graph-Augmented Generation (GraphRAG)** with a multimodal ingestion pipeline, Sentinel empowers engineers and field technicians to surface zero-hallucination answers, cross-document failure patterns, and instant regulatory gap audits in seconds.
 
 ---
 
@@ -86,7 +86,7 @@ graph TD
 
 ## 💡 Innovation Differentiator: GraphRAG vs Traditional Vector RAG
 
-| Vector RAG (Standard Competitors) | PlantBrain GraphRAG (Our Solution) |
+| Vector RAG (Standard Competitors) | Sentinel GraphRAG (Our Solution) |
 |---|---|
 | ❌ **Chunk Similarity Only**: Matches isolated paragraphs based on keyword overlap. | ✅ **Entity & Relational Traversal**: Connects Equipment (`GB-14`), Work Orders (`WO-4901`), Safety Permits (`SP-04`), and Incidents. |
 | ❌ **Misses Relational Context**: Cannot link a 2019 near-miss incident report with a 2026 work order. | ✅ **Multi-Hop Graph Reasoning**: Answers complex multi-hop queries across document types. |
@@ -122,7 +122,7 @@ ET_Hackathon/
 ├── docs/
 │   ├── demo_script.md       # 90-second video demo script & presenter guide
 │   └── deployment.md        # Render & Vercel deployment documentation
-├── PlantBrain_Presentation.pptx # Widescreen pitch deck presentation file
+├── Sentinel_Presentation.pptx # Widescreen pitch deck presentation file
 ├── render.yaml              # Render deployment configuration
 └── README.md
 ```
@@ -200,7 +200,7 @@ The frontend will run at `http://localhost:5173`.
 
 ## 📢 Presentation & Resources
 
-- **PowerPoint Presentation Deck**: Download [`PlantBrain_Presentation.pptx`](./PlantBrain_Presentation.pptx)
+- **PowerPoint Presentation Deck**: Download [`Sentinel_Presentation.pptx`](./Sentinel_Presentation.pptx)
 - **Demo Script**: [`docs/demo_script.md`](./docs/demo_script.md)
 - **Deployment Guide**: [`docs/deployment.md`](./docs/deployment.md)
 

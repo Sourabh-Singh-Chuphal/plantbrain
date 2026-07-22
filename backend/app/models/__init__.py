@@ -1,1 +1,1 @@
-"""PlantBrain — Models package"""
+"""Sentinel — Models package"""

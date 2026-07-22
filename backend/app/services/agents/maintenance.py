@@ -1,5 +1,5 @@
 """
-PlantBrain — Maintenance / RCA Agent
+Sentinel — Maintenance / RCA Agent
 Given a failure symptom, synthesizes root causes from work orders + OEM manuals + incidents.
 """
 from __future__ import annotations

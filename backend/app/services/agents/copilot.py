@@ -1,5 +1,5 @@
 """
-PlantBrain — Expert Copilot Agent
+Sentinel — Expert Copilot Agent
 RAG-grounded chat with citations and response cache.
 """
 from __future__ import annotations
@@ -33,7 +33,7 @@ def _embed_question(question: str) -> list[float]:
 
 # ── RAG prompt ────────────────────────────────────────────────────────────────
 
-_COPILOT_SYSTEM = """You are PlantBrain, an expert AI assistant for industrial plant operations at Vindhya Steelworks.
+_COPILOT_SYSTEM = """You are Sentinel, an expert AI assistant for industrial plant operations at Vindhya Steelworks.
 
 Your rules:
 1. Answer in natural, professional chatbot language.
@@ -103,7 +103,7 @@ def answer_query(question: str, session_id: Optional[str] = None) -> CopilotResp
     if "weather" in q_lower:
         return CopilotResponse(
             answer=(
-                "I'm **PlantBrain**, focused on indoor plant operations and asset telemetry for Vindhya Steelworks! 🏭\n\n"
+                "I'm **Sentinel**, focused on indoor plant operations and asset telemetry for Vindhya Steelworks! 🏭\n\n"
                 "While I don't track ambient meteorological weather, here is your **Facility Ambient & Process Status**:\n"
                 "• **Zone 1 Bay 4 Temperature**: 32°C (Normal operational range)\n"
                 "• **Gas Exhaust Blower GB-14**: Operating at 2% LEL (Monitored & Stable)\n"
@@ -120,7 +120,7 @@ def answer_query(question: str, session_id: Optional[str] = None) -> CopilotResp
     if q_clean in greetings or "how are you" in q_clean or "who are you" in q_clean or "what can you do" in q_clean:
         return CopilotResponse(
             answer=(
-                "Hello! I am **PlantBrain**, your AI Copilot for industrial plant operations at Vindhya Steelworks. 👋\n\n"
+                "Hello! I am **Sentinel**, your AI Copilot for industrial plant operations at Vindhya Steelworks. 👋\n\n"
                 "I can help you with:\n"
                 "• 🔍 **Technical Search**: Search work orders, OEM equipment manuals, and safety inspection logs.\n"
                 "• ⚡ **Failure Pattern Diagnosis**: Uncover recurring patterns across equipment tags like **GB-14** or **PM-07**.\n"

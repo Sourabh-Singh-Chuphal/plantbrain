@@ -269,7 +269,7 @@ export default function Copilot() {
           {messages.length === 0 && (
             <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} style={{ textAlign: 'center', marginTop: 50 }}>
               <div style={{ fontSize: 28, marginBottom: 10 }}>🏭</div>
-              <div style={{ fontSize: 18, fontWeight: 700, marginBottom: 6 }}>Ask PlantBrain Anything</div>
+              <div style={{ fontSize: 18, fontWeight: 700, marginBottom: 6 }}>Ask Sentinel Anything</div>
               <div style={{ color: 'var(--text-muted)', marginBottom: 24, fontSize: 13 }}>RAG-grounded chat over Vindhya Steelworks work orders, manuals & compliance documents</div>
               <div style={{ display: 'flex', flexDirection: 'column', gap: 8, alignItems: 'center' }}>
                 {DEMO_QUESTIONS.map((q, i) => (

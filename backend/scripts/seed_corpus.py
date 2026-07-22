@@ -1,5 +1,5 @@
 """
-PlantBrain — Corpus Seed Script
+Sentinel — Corpus Seed Script
 Ingests all documents from /data/sample_documents/ into ChromaDB + Neo4j.
 Idempotent: skips ingestion if corpus already populated.
 
@@ -132,7 +132,7 @@ def seed_corpus(force: bool = False) -> dict:
 
 if __name__ == "__main__":
     import argparse
-    parser = argparse.ArgumentParser(description="PlantBrain corpus seeder")
+    parser = argparse.ArgumentParser(description="Sentinel corpus seeder")
     parser.add_argument("--force", action="store_true", help="Force re-ingestion even if corpus exists")
     args = parser.parse_args()
 

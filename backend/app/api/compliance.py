@@ -1,5 +1,5 @@
 """
-PlantBrain — Compliance Router
+Sentinel — Compliance Router
 POST /api/compliance/check
 GET  /api/compliance/gaps
 GET  /api/compliance/evidence (download markdown package)

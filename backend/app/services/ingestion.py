@@ -1,5 +1,5 @@
 """
-PlantBrain — Ingestion Pipeline
+Sentinel — Ingestion Pipeline
 Handles PDF/DOCX/XLSX/image files → chunk → embed → store.
 """
 from __future__ import annotations

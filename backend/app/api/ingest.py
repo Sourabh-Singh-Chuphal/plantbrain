@@ -1,5 +1,5 @@
 """
-PlantBrain — Ingestion Router
+Sentinel — Ingestion Router
 POST /api/ingest — multipart file upload
 """
 from __future__ import annotations

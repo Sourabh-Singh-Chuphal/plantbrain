@@ -1,5 +1,5 @@
 """
-PlantBrain — Compliance & Quality Agent
+Sentinel — Compliance & Quality Agent
 Maps regulatory clauses against procedure documents and flags gaps.
 """
 from __future__ import annotations

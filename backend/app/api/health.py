@@ -1,5 +1,5 @@
 """
-PlantBrain — Health Check Router
+Sentinel — Health Check Router
 """
 from fastapi import APIRouter
 from app.models.schemas import HealthResponse

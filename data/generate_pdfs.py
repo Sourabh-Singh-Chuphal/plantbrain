@@ -1,5 +1,5 @@
 """
-PlantBrain -- Zero-Dependency PDF Generator
+Sentinel -- Zero-Dependency PDF Generator
 Converts all .txt documents in sample_documents/ to PDFs.
 Uses ONLY Python standard library -- no pip required.
 
@@ -136,7 +136,7 @@ class SimplePDF:
         hline(self.MARGIN, 48, self.PAGE_W - self.MARGIN,
               color=(80, 80, 80), width=0.5)
         today = datetime.now().strftime("%d %b %Y")
-        footer = f"PlantBrain Demo Corpus  |  Synthetic Document — All persons and events are fictional  |  {today}"
+        footer = f"Sentinel Demo Corpus  |  Synthetic Document — All persons and events are fictional  |  {today}"
         text_at(self.MARGIN, 35, "Helv", 6, footer, color=(140, 140, 140))
 
         # ── Body text ──
@@ -311,7 +311,7 @@ class SimplePDF:
 
 def main():
     print("=" * 60)
-    print("PlantBrain  PDF Generator  (zero-dependency)")
+    print("Sentinel  PDF Generator  (zero-dependency)")
     print(f"Source folder: {BASE_DIR}")
     print("=" * 60 + "\n")
 
@@ -339,7 +339,7 @@ def main():
 
     print(f"\n{'=' * 60}")
     print(f"Done.  {ok} PDFs created,  {err} errors.")
-    print(f"\nPDFs are ready for ingestion into PlantBrain.")
+    print(f"\nPDFs are ready for ingestion into Sentinel.")
     print("The FastAPI backend reads them with pdfplumber.")
     print(f"{'=' * 60}")
 

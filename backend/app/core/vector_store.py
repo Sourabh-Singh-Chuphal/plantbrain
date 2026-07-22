@@ -1,5 +1,5 @@
 """
-PlantBrain — ChromaDB Vector Store Client
+Sentinel — ChromaDB Vector Store Client
 """
 from functools import lru_cache
 import chromadb

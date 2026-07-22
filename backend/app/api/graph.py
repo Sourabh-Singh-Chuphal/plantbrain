@@ -1,5 +1,5 @@
 """
-PlantBrain — Graph Router
+Sentinel — Graph Router
 GET /api/graph/stats
 GET /api/graph/equipment/{tag}/related
 GET /api/graph/equipment/{tag}/patterns

@@ -1,5 +1,5 @@
 """
-PlantBrain — Neo4j Graph Client
+Sentinel — Neo4j Graph Client
 """
 from functools import lru_cache
 from neo4j import GraphDatabase, Driver

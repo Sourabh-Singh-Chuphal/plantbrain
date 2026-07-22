@@ -1,11 +1,11 @@
-# PlantBrain — Synthetic Data Corpus README
+# Sentinel — Synthetic Data Corpus README
 
 ## Plant: Vindhya Steelworks Pvt. Ltd.
 **Location:** Chandrapur Industrial Zone, Maharashtra — 442 401
 
 This corpus contains 11 realistic synthetic documents spanning 2018–2026,
 all internally consistent and cross-referenced. They are designed to demonstrate
-PlantBrain's cross-document pattern detection capability.
+Sentinel's cross-document pattern detection capability.
 
 ---
 
@@ -24,7 +24,7 @@ is active in Bay 4. Same equipment, same location, three times in 7 years.
 No system detected this pattern — only long-serving humans (Rajiv Sharma, Anil Mehta,
 Suresh Kumar) recognised it.
 
-**PlantBrain's job:** Surface this pattern BEFORE the third incident happens.
+**Sentinel's job:** Surface this pattern BEFORE the third incident happens.
 
 ---
 
@@ -108,7 +108,7 @@ Suresh Kumar) recognised it.
 
 ## 🔍 Regulatory Compliance Gaps Mapped
 
-These are the gaps PlantBrain's compliance checker should detect when analysing WO-4892 against OISD-STD-105:
+These are the gaps Sentinel's compliance checker should detect when analysing WO-4892 against OISD-STD-105:
 
 | Clause | Requirement | Violation in WO-4892 |
 |---|---|---|
@@ -200,5 +200,5 @@ These would make the dataset richer if you have time:
 
 ---
 
-*Corpus prepared for PlantBrain hackathon demo — Vindhya Steelworks.*
+*Corpus prepared for Sentinel hackathon demo — Vindhya Steelworks.*
 *All persons, incidents, and work orders are fictional.*

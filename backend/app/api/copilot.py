@@ -1,5 +1,5 @@
 """
-PlantBrain — Copilot Router
+Sentinel — Copilot Router
 POST /api/copilot/query — RAG-grounded chat
 """
 from __future__ import annotations

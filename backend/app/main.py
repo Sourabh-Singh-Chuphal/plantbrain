@@ -1,5 +1,5 @@
 """
-PlantBrain — FastAPI Application Entry Point
+Sentinel — FastAPI Application Entry Point
 """
 from __future__ import annotations
 
@@ -13,7 +13,7 @@ from app.api import health, ingest, copilot, graph, compliance, admin
 settings = get_settings()
 
 app = FastAPI(
-    title="PlantBrain API",
+    title="Sentinel API",
     description=(
         "AI-powered Industrial Knowledge Intelligence platform for Vindhya Steelworks. "
         "Exposes ingestion, RAG copilot, knowledge graph, compliance, and maintenance agents."
@@ -53,7 +53,7 @@ app.include_router(admin.router, prefix="/api")
 # ── Startup event ─────────────────────────────────────────────────────────────
 @app.on_event("startup")
 async def startup_event():
-    logger.info(f"PlantBrain API starting — env={settings.app_env}")
+    logger.info(f"Sentinel API starting — env={settings.app_env}")
     logger.info(f"ChromaDB persist dir: {settings.chroma_persist_dir}")
     logger.info(f"Frontend origin: {settings.frontend_origin}")
 
@@ -107,8 +107,9 @@ async def startup_event():
 @app.api_route("/", methods=["GET", "HEAD"], tags=["root"])
 async def root():
     return {
-        "service": "PlantBrain API",
+        "service": "Sentinel API",
         "version": "1.0.0",
         "docs": "/api/docs",
         "health": "/api/health",
     }
+

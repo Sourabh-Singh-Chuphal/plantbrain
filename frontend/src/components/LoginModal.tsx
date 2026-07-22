@@ -43,7 +43,7 @@ export default function LoginModal({ onClose, user, onLogin }: Props) {
             <div>
               <span style={{ fontSize: 11, color: 'var(--teal)', fontWeight: 700, textTransform: 'uppercase' }}>ENTERPRISE SINGLE SIGN-ON</span>
 
-              <h3 style={{ fontSize: 20, fontWeight: 700, color: 'var(--text-primary)', marginTop: 4 }}>PlantBrain Auth</h3>
+              <h3 style={{ fontSize: 20, fontWeight: 700, color: 'var(--text-primary)', marginTop: 4 }}>Sentinel Auth</h3>
             </div>
             <button onClick={onClose} style={{ background: 'none', border: 'none', color: 'var(--text-muted)', cursor: 'pointer', fontSize: 20 }}>×</button>
           </div>

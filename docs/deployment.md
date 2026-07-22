@@ -1,4 +1,4 @@
-# PlantBrain Deployment Guide
+# Sentinel Deployment Guide
 
 ## Quick start (local development)
 
@@ -46,7 +46,7 @@ npm run dev              # http://localhost:5173
    - `NEO4J_URI` (e.g. `neo4j+s://xxxx.databases.neo4j.io`)
    - `NEO4J_PASSWORD`
    - `CHROMA_PERSIST_DIR=/data/chroma`
-   - `FRONTEND_ORIGIN=https://plantbrain-eight.vercel.app` (your Vercel URL)
+   - `FRONTEND_ORIGIN=https://sentinel-eight.vercel.app` (your Vercel URL)
 5. After first deploy, seed the corpus via:
    ```
    POST https://your-render-url.onrender.com/api/admin/seed
@@ -54,7 +54,7 @@ npm run dev              # http://localhost:5173
 
 ### Frontend → Vercel
 
-1. Official Live Production Deployment: **[https://plantbrain-eight.vercel.app/](https://plantbrain-eight.vercel.app/)**
+1. Official Live Production Deployment: **[https://sentinel-eight.vercel.app/](https://sentinel-eight.vercel.app/)**
 2. Import the `/frontend` directory in Vercel
 3. Set environment variable:
    - `VITE_API_BASE_URL=https://your-render-url.onrender.com`

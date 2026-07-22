@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: plantbrain-api
+    name: sentinel-api
     runtime: docker
     dockerfilePath: ./backend/Dockerfile
     dockerContext: ./backend

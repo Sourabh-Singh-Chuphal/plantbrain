@@ -1,5 +1,5 @@
 """
-PlantBrain — Unified Embedding Service
+Sentinel — Unified Embedding Service
 Single persistent SentenceTransformer instance shared across ingestion & agents.
 """
 from __future__ import annotations

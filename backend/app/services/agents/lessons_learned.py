@@ -1,5 +1,5 @@
 """
-PlantBrain — Lessons-Learned Engine
+Sentinel — Lessons-Learned Engine
 Surfaces recurring cross-document patterns proactively (e.g., GB-14 pattern).
 """
 from __future__ import annotations
